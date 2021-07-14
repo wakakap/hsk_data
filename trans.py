@@ -31,4 +31,4 @@ if __name__ == '__main__':
     #下面是调用部分数据的例子：只调取站点序号为1的数据：
     data1 = data.loc[lambda df:df.a==1,:]#只保留a列==1的数据
     print(data1.head(20))
-    data1.to_csv(PATH+'data1.csv')
+    data1.to_csv(PATH+'data1.csv')#保存csv文件
