@@ -77,9 +77,11 @@ for element in elements:
         closewin(driver)
 
     except Exception as e:
+        message_box("出现问题: " + str(element.text))
         message_box(e)
-        # 关闭窗口
+        # 如果有一个问题，就关闭这个窗口，继续下一个
         closewin(driver)
+        continue
 
 # 关闭浏览器
 driver.quit()

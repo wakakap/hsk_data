@@ -56,17 +56,22 @@ def movemouse_inwin(element, canvas_element):
         x = x + step
 
 def closewin(driver):
+    try:
     # 关闭窗口
-    while True:
-        closebuttons = driver.find_elements(By.CLASS_NAME, "layui-layer-close")
-        # 如果只有一个窗口——水文站窗口，则跳出
-        if len(closebuttons) == 1:
-            break
-        for i, close_button in enumerate(closebuttons):
-            time.sleep(0.1)
-            if i == 0:
-                continue
-            close_button.click()
+        while True:
+            closebuttons = driver.find_elements(By.CLASS_NAME, "layui-layer-close")
+            # 如果只有一个窗口——水文站窗口，则跳出
+            if len(closebuttons) == 1 or len(closebuttons)==0:
+                break
+            for i, close_button in enumerate(closebuttons):
+                time.sleep(0.1)
+                if i == 0:
+                    continue
+                close_button.click()
+    except Exception as e:
+        message_box("关闭错误")
+        message_box(str(e))
+
 
 def translocation(browser_x, browser_y):
     # 获取显示器的宽度和高度
@@ -80,43 +85,31 @@ def translocation(browser_x, browser_y):
 
 def findwin(driver,element):
     count = 0
-    flag = 0
     while True:
         try:
-            wait = WebDriverWait(driver, 3)
+            wait = WebDriverWait(driver, 2)
             canvas_element = wait.until(EC.presence_of_element_located(
                 (By.CSS_SELECTOR, "[class*='-r-charts'] canvas")))
-            flag = 1
-            message_box("找到了canvas_element")
+            message_box("找到了canvas_element -r-charts")
             break
+        
         except:
-            if count >= 5:
-                message_box("已经尝试了 6 次，仍然无法找到元素")
-                element.click()
+            try: 
+                canvas_element = wait.until(EC.presence_of_element_located(
+                    (By.CSS_SELECTOR, "[data-zr-dom-id='zr_0']")))
+                message_box("找到了canvas_element zr_0")
                 break
+            except:
+                if count >= 6:
+                    message_box("已经尝试了 6 次，仍然无法找到元素")
+                    element.click()
+                    break
 
-            message_box("未能找到元素，再试")
-            pyautogui.scroll(-100)
-            pyautogui.click(button='left')
-            count += 1
+                message_box("no both try scroll")
+                count += 1
+                pyautogui.scroll(-100)
+                time.sleep(1)
+                pyautogui.click(button='left')
+                continue
 
-    count = 0
-    while True:
-        if flag == 1:
-            break
-        try:
-            wait = WebDriverWait(driver, 3)
-            canvas_element = wait.until(EC.presence_of_element_located(
-                (By.CSS_SELECTOR, "[data-zr-dom-id='zr_0']")))
-            message_box("找到了canvas_element")
-            break
-        except:
-            if count >= 5:
-                message_box("已经尝试了 6 次，仍然无法找到元素")
-                driver.quit()
-                break
-            message_box("未能找到元素，再试")
-            pyautogui.scroll(-100)
-            pyautogui.click(button='left')
-            count += 1
     return canvas_element

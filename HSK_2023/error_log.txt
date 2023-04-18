@@ -52,3 +52,115 @@ Backtrace:
 2023-04-18 20:00:52: finish date
 2023-04-18 20:00:52: find r-charts again
 2023-04-18 20:00:57: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2023-04-18 23:58:08: find elements: 133
+2023-04-18 23:58:09: after filter elementlen: 127
+2023-04-18 23:58:09: 检测到已经做过: 百色(三)
+2023-04-18 23:58:09: 检测到已经做过: 博白
+2023-04-18 23:58:09: 检测到已经做过: 白蕉
+2023-04-18 23:58:09: 检测到已经做过: 博罗(二)
+2023-04-18 23:58:09: 检测到已经做过: 常德(二)
+2023-04-18 23:58:09: 检测到已经做过: 崇左
+2023-04-18 23:58:09: 开始做: 常乐
+2023-04-18 23:58:15: 找到了canvas_element
+2023-04-18 23:58:16: finish date
+2023-04-18 23:58:16: find r-charts again
+2023-04-18 23:58:26: find r-charts again
+2023-04-18 23:58:35: find r-charts again
+2023-04-18 23:58:44: find r-charts again
+2023-04-18 23:58:54: find r-charts again
+2023-04-18 23:59:03: find r-charts again
+2023-04-18 23:59:12: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00E8DCE3+50899]
+	(No symbol) [0x00E1E111]
+	(No symbol) [0x00D25588]
+	(No symbol) [0x00D27EDB]
+	(No symbol) [0x00D27DB0]
+	(No symbol) [0x00D28030]
+	(No symbol) [0x00D51E3D]
+	(No symbol) [0x00D492ED]
+	(No symbol) [0x00D6B8FC]
+	(No symbol) [0x00D48EC6]
+	(No symbol) [0x00D6BC54]
+	(No symbol) [0x00D7E01C]
+	(No symbol) [0x00D6B6F6]
+	(No symbol) [0x00D47708]
+	(No symbol) [0x00D4886D]
+	GetHandleVerifier [0x010F3EAE+2566302]
+	GetHandleVerifier [0x011292B1+2784417]
+	GetHandleVerifier [0x0112327C+2759788]
+	GetHandleVerifier [0x00F25740+672048]
+	(No symbol) [0x00E28872]
+	(No symbol) [0x00E241C8]
+	(No symbol) [0x00E242AB]
+	(No symbol) [0x00E171B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-18 23:59:13: 开始做: 赤湾
+2023-04-18 23:59:21: 未能找到元素，再试
+2023-04-18 23:59:24: 未能找到元素，再试
+2023-04-18 23:59:27: 未能找到元素，再试
+2023-04-18 23:59:31: 未能找到元素，再试
+2023-04-18 23:59:34: 未能找到元素，再试
+2023-04-18 23:59:37: 已经尝试了 6 次，仍然无法找到元素
+2023-04-18 23:59:40: 未能找到元素，再试
+2023-04-18 23:59:44: 未能找到元素，再试
+2023-04-18 23:59:47: 未能找到元素，再试
+2023-04-18 23:59:50: 未能找到元素，再试
+2023-04-18 23:59:54: 未能找到元素，再试
+2023-04-18 23:59:57: 已经尝试了 6 次，仍然无法找到元素
+2023-04-18 23:59:59: local variable 'canvas_element' referenced before assignment
+2023-04-19 00:10:56: find elements: 133
+2023-04-19 00:10:57: after filter elementlen: 126
+2023-04-19 00:10:57: 检测到已经做过: 百色(三)
+2023-04-19 00:10:57: 检测到已经做过: 博白
+2023-04-19 00:10:57: 检测到已经做过: 白蕉
+2023-04-19 00:10:57: 检测到已经做过: 博罗(二)
+2023-04-19 00:10:57: 检测到已经做过: 常德(二)
+2023-04-19 00:10:57: 检测到已经做过: 崇左
+2023-04-19 00:10:57: 检测到已经做过: 常乐
+2023-04-19 00:10:57: 开始做: 赤湾
+2023-04-19 00:11:06: no both try scroll
+2023-04-19 00:11:12: no both try scroll
+2023-04-19 00:11:17: no both try scroll
+2023-04-19 00:11:22: no both try scroll
+2023-04-19 00:11:25: 找到了canvas_element -r-charts
+2023-04-19 00:11:26: finish date
+2023-04-19 00:11:27: 出现问题: 赤湾
+2023-04-19 00:11:27: Message: element click intercepted: Element <input type="text" class="layui-input" id="GDHydro_time" placeholder="yyyy-MM-dd" lay-key="1"> is not clickable at point (818, 231). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade9" times="9" style="z-index: 19891030; background-color: rgb(0, 0, 0); opacity: 0.01;"></div>
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00E8DCE3+50899]
+	(No symbol) [0x00E1E111]
+	(No symbol) [0x00D25588]
+	(No symbol) [0x00D55A7A]
+	(No symbol) [0x00D54336]
+	(No symbol) [0x00D5267B]
+	(No symbol) [0x00D51797]
+	(No symbol) [0x00D494A5]
+	(No symbol) [0x00D6B8FC]
+	(No symbol) [0x00D48EC6]
+	(No symbol) [0x00D6BC54]
+	(No symbol) [0x00D7E01C]
+	(No symbol) [0x00D6B6F6]
+	(No symbol) [0x00D47708]
+	(No symbol) [0x00D4886D]
+	GetHandleVerifier [0x010F3EAE+2566302]
+	GetHandleVerifier [0x011292B1+2784417]
+	GetHandleVerifier [0x0112327C+2759788]
+	GetHandleVerifier [0x00F25740+672048]
+	(No symbol) [0x00E28872]
+	(No symbol) [0x00E241C8]
+	(No symbol) [0x00E242AB]
+	(No symbol) [0x00E171B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 00:20:54: find elements: 0
+2023-04-19 00:20:54: after filter elementlen: 0
