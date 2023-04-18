@@ -1,0 +1,54 @@
+2023-04-18 19:52:48: find elements: 133
+2023-04-18 19:52:49: 结果已保存至shuiwenzhan.txt文件中！
+2023-04-18 19:55:31: find elements: 133
+2023-04-18 19:59:42: find elements: 133
+2023-04-18 19:59:43: after filter elementlen: 129
+2023-04-18 19:59:43: 检测到已经做过: 百色(三)
+2023-04-18 19:59:43: 检测到已经做过: 博白
+2023-04-18 19:59:43: 检测到已经做过: 白蕉
+2023-04-18 19:59:43: 检测到已经做过: 博罗(二)
+2023-04-18 19:59:43: 开始做: 常德(二)
+2023-04-18 19:59:49: 找到了canvas_element
+2023-04-18 19:59:50: finish date
+2023-04-18 19:59:50: find r-charts again
+2023-04-18 19:59:59: find r-charts again
+2023-04-18 20:00:08: find r-charts again
+2023-04-18 20:00:17: find r-charts again
+2023-04-18 20:00:26: find r-charts again
+2023-04-18 20:00:35: find r-charts again
+2023-04-18 20:00:45: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x007CDCE3+50899]
+	(No symbol) [0x0075E111]
+	(No symbol) [0x00665588]
+	(No symbol) [0x00667EDB]
+	(No symbol) [0x00667DB0]
+	(No symbol) [0x00668030]
+	(No symbol) [0x00691E3D]
+	(No symbol) [0x006892ED]
+	(No symbol) [0x006AB8FC]
+	(No symbol) [0x00688EC6]
+	(No symbol) [0x006ABC54]
+	(No symbol) [0x006BE01C]
+	(No symbol) [0x006AB6F6]
+	(No symbol) [0x00687708]
+	(No symbol) [0x0068886D]
+	GetHandleVerifier [0x00A33EAE+2566302]
+	GetHandleVerifier [0x00A692B1+2784417]
+	GetHandleVerifier [0x00A6327C+2759788]
+	GetHandleVerifier [0x00865740+672048]
+	(No symbol) [0x00768872]
+	(No symbol) [0x007641C8]
+	(No symbol) [0x007642AB]
+	(No symbol) [0x007571B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-18 20:00:45: 开始做: 崇左
+2023-04-18 20:00:51: 找到了canvas_element
+2023-04-18 20:00:52: finish date
+2023-04-18 20:00:52: find r-charts again
+2023-04-18 20:00:57: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
