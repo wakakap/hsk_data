@@ -10,7 +10,7 @@ def message_box(txt):
 
 
 def filterlist(elelist):
-    if not os.path.exists("done.txt"):
+    if not os.path.exists("./done.txt"):
         return elelist
     with open("done.txt", "r",encoding="utf-8") as f:
         done_str = f.read().strip()  # 读取done.txt中的文本内容并去除首尾空格

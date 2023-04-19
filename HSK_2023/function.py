@@ -49,7 +49,8 @@ def movemouse_inwin(positxt, element, canvas_element):
             previous_element_text = canvas_element.text
             # message_box("find canvas_element: " + str(previous_element_text))
             # 将新文本写入CSV文件
-            row = (positxt+"\n"+ element.text+"\n"+ previous_element_text).split('\n')
+            # row = (positxt+"\n"+ element.text+"\n"+ previous_element_text).split('\n')
+            row = (element.text+"\n"+ previous_element_text).split('\n')
             writecsv(row)
 
         # 平移鼠标
@@ -101,8 +102,8 @@ def findwin(driver,element):
                 message_box("找到了canvas_element zr_0")
                 break
             except:
-                if count >= 6:
-                    message_box("已经尝试了 6 次，仍然无法找到元素")
+                if count >= 3:
+                    message_box("已经尝试了 3 次，仍然无法找到元素")
                     element.click()
                     break
 

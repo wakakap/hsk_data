@@ -5453,3 +5453,525 @@ Backtrace:
 	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
 	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
 
+2023-04-19 16:23:16: find elements: 133
+2023-04-19 16:23:17: after filter elementlen: 10
+2023-04-19 16:23:17: 检测到已经做过: 百色(三)
+2023-04-19 16:23:17: 检测到已经做过: 博白
+2023-04-19 16:23:17: 检测到已经做过: 白蕉
+2023-04-19 16:23:17: 检测到已经做过: 博罗(二)
+2023-04-19 16:23:17: 检测到已经做过: 崇左
+2023-04-19 16:23:17: 检测到已经做过: 常乐
+2023-04-19 16:23:17: 检测到已经做过: 常德(二)
+2023-04-19 16:23:17: 检测到已经做过: 赤湾
+2023-04-19 16:23:17: 检测到已经做过: 潮安
+2023-04-19 16:23:17: 检测到已经做过: 东江口
+2023-04-19 16:23:17: 检测到已经做过: 担杆岛
+2023-04-19 16:23:17: 检测到已经做过: 大九洲
+2023-04-19 16:23:17: 检测到已经做过: 东海岛
+2023-04-19 16:23:17: 检测到已经做过: 大湟江口(二)
+2023-04-19 16:23:17: 检测到已经做过: 东场
+2023-04-19 16:23:17: 检测到已经做过: 大藤峡
+2023-04-19 16:23:17: 检测到已经做过: 都安
+2023-04-19 16:23:17: 检测到已经做过: 东溪口
+2023-04-19 16:23:17: 检测到已经做过: 灯笼山
+2023-04-19 16:23:17: 检测到已经做过: 大敖
+2023-04-19 16:23:17: 检测到已经做过: 德庆(二)
+2023-04-19 16:23:17: 开始做: 富湾海事监测点
+2023-04-19 16:23:25: 找到了canvas_element zr_0
+2023-04-19 16:23:26: finish date
+2023-04-19 16:23:26: find r-charts again
+2023-04-19 16:23:29: second find zr_0
+2023-04-19 16:23:32: 出现问题: 富湾海事监测点
+2023-04-19 16:23:32: Message: 
+
+2023-04-19 16:23:33: 关闭错误
+2023-04-19 16:23:33: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:23:33: 检测到已经做过: 放鸡岛
+2023-04-19 16:23:33: 检测到已经做过: 防城港
+2023-04-19 16:23:33: 检测到已经做过: 扶绥
+2023-04-19 16:23:33: 检测到已经做过: 封开江口
+2023-04-19 16:23:33: 检测到已经做过: 飞来峡
+2023-04-19 16:23:33: 检测到已经做过: 汾江站
+2023-04-19 16:23:33: 检测到已经做过: 桂林
+2023-04-19 16:23:33: 检测到已经做过: 桂平
+2023-04-19 16:23:33: 检测到已经做过: 贵港
+2023-04-19 16:23:33: 检测到已经做过: 归阳
+2023-04-19 16:23:33: 检测到已经做过: 官冲
+2023-04-19 16:23:33: 检测到已经做过: 高要
+2023-04-19 16:23:33: 检测到已经做过: 惠州港
+2023-04-19 16:23:33: 检测到已经做过: 贺州
+2023-04-19 16:23:33: 检测到已经做过: 横县
+2023-04-19 16:23:33: 检测到已经做过: 衡阳
+2023-04-19 16:23:33: 检测到已经做过: 衡山(二)
+2023-04-19 16:23:33: 检测到已经做过: 黄埔(三)
+2023-04-19 16:23:33: 检测到已经做过: 横山
+2023-04-19 16:23:33: 检测到已经做过: 黄金
+2023-04-19 16:23:33: 检测到已经做过: 横门
+2023-04-19 16:23:33: 检测到已经做过: 河源
+2023-04-19 16:23:33: 检测到已经做过: 惠阳(二)
+2023-04-19 16:23:33: 检测到已经做过: 津市(二)
+2023-04-19 16:23:33: 开始做: 江门
+2023-04-19 16:23:42: no both try scroll
+2023-04-19 16:23:48: no both try scroll
+2023-04-19 16:23:53: no both try scroll
+2023-04-19 16:23:58: no both try scroll
+2023-04-19 16:24:04: no both try scroll
+2023-04-19 16:24:09: no both try scroll
+2023-04-19 16:24:14: 已经尝试了 6 次，仍然无法找到元素
+2023-04-19 16:24:14: 出现问题: 江门
+2023-04-19 16:24:14: local variable 'canvas_element' referenced before assignment
+2023-04-19 16:24:14: 检测到已经做过: 柳城
+2023-04-19 16:24:14: 检测到已经做过: 柳州
+2023-04-19 16:24:14: 检测到已经做过: 龙州
+2023-04-19 16:24:14: 检测到已经做过: 隆安
+2023-04-19 16:24:14: 检测到已经做过: 来宾
+2023-04-19 16:24:14: 检测到已经做过: 龙圩
+2023-04-19 16:24:14: 检测到已经做过: 峦城
+2023-04-19 16:24:14: 检测到已经做过: 老埠头
+2023-04-19 16:24:14: 检测到已经做过: 冷水滩
+2023-04-19 16:24:14: 检测到已经做过: 澧县(二)
+2023-04-19 16:24:15: 检测到已经做过: 老鸦岗(二)
+2023-04-19 16:24:15: 检测到已经做过: 留隍
+2023-04-19 16:24:15: 检测到已经做过: 岭下
+2023-04-19 16:24:15: 检测到已经做过: 龙川
+2023-04-19 16:24:15: 检测到已经做过: 连江口(二)
+2023-04-19 16:24:15: 检测到已经做过: 马鞍
+2023-04-19 16:24:15: 检测到已经做过: 马口
+2023-04-19 16:24:15: 检测到已经做过: 坭洲头
+2023-04-19 16:24:15: 检测到已经做过: 南石头
+2023-04-19 16:24:15: 检测到已经做过: 内伶仃
+2023-04-19 16:24:15: 检测到已经做过: 宁明
+2023-04-19 16:24:15: 检测到已经做过: 南宁（三）
+2023-04-19 16:24:15: 检测到已经做过: 南沙
+2023-04-19 16:24:15: 检测到已经做过: 平南
+2023-04-19 16:24:15: 检测到已经做过: 平乐
+2023-04-19 16:24:15: 检测到已经做过: 清澜港
+2023-04-19 16:24:15: 检测到已经做过: 钦州港
+2023-04-19 16:24:15: 检测到已经做过: 迁江
+2023-04-19 16:24:15: 检测到已经做过: 钦州(闸上)
+2023-04-19 16:24:15: 检测到已经做过: 钦州(闸下)
+2023-04-19 16:24:15: 检测到已经做过: 祁阳(二)
+2023-04-19 16:24:15: 检测到已经做过: 清远(三)
+2023-04-19 16:24:15: 检测到已经做过: 融水
+2023-04-19 16:24:15: 检测到已经做过: 容奇(二)
+2023-04-19 16:24:15: 检测到已经做过: 舢舨洲
+2023-04-19 16:24:15: 检测到已经做过: 四尺岩
+2023-04-19 16:24:15: 开始做: 水东海事监测点
+2023-04-19 16:24:22: 找到了canvas_element zr_0
+2023-04-19 16:24:23: finish date
+2023-04-19 16:24:23: find r-charts again
+2023-04-19 16:24:26: second find zr_0
+2023-04-19 16:24:30: 出现问题: 水东海事监测点
+2023-04-19 16:24:30: Message: 
+
+2023-04-19 16:24:30: 关闭错误
+2023-04-19 16:24:30: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:24:30: 开始做: 三墩水文站
+2023-04-19 16:24:39: no both try scroll
+2023-04-19 16:24:45: no both try scroll
+2023-04-19 16:24:48: 找到了canvas_element zr_0
+2023-04-19 16:24:49: finish date
+2023-04-19 16:24:49: find r-charts again
+2023-04-19 16:24:52: second find zr_0
+2023-04-19 16:24:55: 出现问题: 三墩水文站
+2023-04-19 16:24:55: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00FB08F9]
+	(No symbol) [0x00FB0AFB]
+	(No symbol) [0x00FDF902]
+	(No symbol) [0x00FCB944]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:24:56: 关闭错误
+2023-04-19 16:24:56: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:24:56: 开始做: 山狗吼海事监测点
+2023-04-19 16:25:03: 找到了canvas_element zr_0
+2023-04-19 16:25:04: finish date
+2023-04-19 16:25:04: find r-charts again
+2023-04-19 16:25:08: second find zr_0
+2023-04-19 16:25:11: 出现问题: 山狗吼海事监测点
+2023-04-19 16:25:11: Message: 
+
+2023-04-19 16:25:11: 关闭错误
+2023-04-19 16:25:11: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:25:11: 检测到已经做过: 汕头港
+2023-04-19 16:25:11: 检测到已经做过: 三岔
+2023-04-19 16:25:11: 检测到已经做过: 邵阳
+2023-04-19 16:25:11: 检测到已经做过: 石门
+2023-04-19 16:25:11: 检测到已经做过: 石咀
+2023-04-19 16:25:11: 检测到已经做过: 狮山
+2023-04-19 16:25:11: 检测到已经做过: 泗盛围
+2023-04-19 16:25:11: 检测到已经做过: 三灶
+2023-04-19 16:25:11: 检测到已经做过: 三善滘
+2023-04-19 16:25:11: 检测到已经做过: 三沙口
+2023-04-19 16:25:11: 检测到已经做过: 石龙(二)
+2023-04-19 16:25:11: 检测到已经做过: 韶关(二)
+2023-04-19 16:25:11: 检测到已经做过: 石角
+2023-04-19 16:25:11: 检测到已经做过: 三水(二)
+2023-04-19 16:25:11: 检测到已经做过: 三河坝(三)
+2023-04-19 16:25:11: 检测到已经做过: 三多
+2023-04-19 16:25:11: 开始做: 台山海事监测点
+2023-04-19 16:25:19: 找到了canvas_element zr_0
+2023-04-19 16:25:20: finish date
+2023-04-19 16:25:20: find r-charts again
+2023-04-19 16:25:23: second find zr_0
+2023-04-19 16:25:26: 出现问题: 台山海事监测点
+2023-04-19 16:25:26: Message: 
+
+2023-04-19 16:25:26: 关闭错误
+2023-04-19 16:25:26: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:25:26: 检测到已经做过: 天峨
+2023-04-19 16:25:26: 检测到已经做过: 藤县
+2023-04-19 16:25:26: 检测到已经做过: 桃江(二)
+2023-04-19 16:25:27: 检测到已经做过: 桃源
+2023-04-19 16:25:27: 开始做: 湾仔海事监测点
+2023-04-19 16:25:34: 找到了canvas_element zr_0
+2023-04-19 16:25:35: finish date
+2023-04-19 16:25:35: find r-charts again
+2023-04-19 16:25:38: second find zr_0
+2023-04-19 16:25:41: 出现问题: 湾仔海事监测点
+2023-04-19 16:25:41: Message: 
+
+2023-04-19 16:25:42: 关闭错误
+2023-04-19 16:25:42: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:25:42: 检测到已经做过: 武宣
+2023-04-19 16:25:42: 检测到已经做过: 梧州（四）
+2023-04-19 16:25:42: 检测到已经做过: 万顷沙西(二)
+2023-04-19 16:25:42: 检测到已经做过: 仙屋角
+2023-04-19 16:25:42: 开始做: 徐闻海事监测点
+2023-04-19 16:25:49: 找到了canvas_element zr_0
+2023-04-19 16:25:50: finish date
+2023-04-19 16:25:51: find r-charts again
+2023-04-19 16:25:54: second find zr_0
+2023-04-19 16:25:57: 出现问题: 徐闻海事监测点
+2023-04-19 16:25:57: Message: 
+
+2023-04-19 16:25:57: 关闭错误
+2023-04-19 16:25:57: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:25:57: 检测到已经做过: 象州
+2023-04-19 16:25:57: 检测到已经做过: 信都（三）
+2023-04-19 16:25:57: 检测到已经做过: 湘潭
+2023-04-19 16:25:57: 检测到已经做过: 西炮台
+2023-04-19 16:25:57: 检测到已经做过: 小榄(二)
+2023-04-19 16:25:57: 检测到已经做过: 蚬沙(南华)
+2023-04-19 16:25:57: 开始做: 阳江海事监测点
+2023-04-19 16:26:05: 找到了canvas_element zr_0
+2023-04-19 16:26:06: finish date
+2023-04-19 16:26:06: find r-charts again
+2023-04-19 16:26:09: second find zr_0
+2023-04-19 16:26:12: 出现问题: 阳江海事监测点
+2023-04-19 16:26:12: Message: 
+
+2023-04-19 16:26:12: 关闭错误
+2023-04-19 16:26:12: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:26:12: 检测到已经做过: 阳朔
+2023-04-19 16:26:12: 检测到已经做过: 益阳(二)
+2023-04-19 16:26:12: 检测到已经做过: 英德(五)
+2023-04-19 16:26:12: 检测到已经做过: 珠海港
+2023-04-19 16:26:13: 检测到已经做过: 湛江港
+2023-04-19 16:26:13: 开始做: 肈庆海事监测点
+2023-04-19 16:26:20: 找到了canvas_element zr_0
+2023-04-19 16:26:21: finish date
+2023-04-19 16:26:21: find r-charts again
+2023-04-19 16:26:24: second find zr_0
+2023-04-19 16:26:27: 出现问题: 肈庆海事监测点
+2023-04-19 16:26:27: Message: 
+
+2023-04-19 16:26:28: 关闭错误
+2023-04-19 16:26:28: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 16:26:28: 检测到已经做过: 长安
+2023-04-19 16:26:28: 检测到已经做过: 昭平
+2023-04-19 16:26:28: 检测到已经做过: 株洲
+2023-04-19 16:26:28: 检测到已经做过: 长沙(三)
+2023-04-19 16:26:28: 检测到已经做过: 长沙
+2023-04-19 16:26:28: 检测到已经做过: 中大
+2023-04-19 16:26:28: 检测到已经做过: 紫洞
+2023-04-19 16:26:28: main.py全部完成

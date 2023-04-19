@@ -86,6 +86,7 @@ except Exception as e:
     driver.quit()
 
 text_list = [element.text for element in elements]
+
 # 写入水文站列表
 import os
 if not os.path.exists("shuiwenzhan.txt"):
@@ -104,7 +105,7 @@ for element in elements:
     # 获取经纬度
     onclick_value = element.get_attribute("onclick")
     positxt = str(onclick_value)
-    
+
     element.click()
     time.sleep(5)
     try:
