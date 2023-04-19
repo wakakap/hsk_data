@@ -61,7 +61,8 @@ def closewin(driver):
         while True:
             closebuttons = driver.find_elements(By.CLASS_NAME, "layui-layer-close")
             # 如果只有一个窗口——水文站窗口，则跳出
-            if len(closebuttons) == 1:
+            # 如果没有窗口，则跳出。这种情况是水文站窗口也没了，保险起见加上
+            if len(closebuttons) == 1 or len(closebuttons) == 0:
                 break
             for i, close_button in enumerate(closebuttons):
                 time.sleep(0.1)

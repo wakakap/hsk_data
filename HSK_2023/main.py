@@ -13,15 +13,16 @@ driver = webdriver.Chrome()
 # 访问目标网页
 driver.get("https://www.nhhb.org.cn/nbwebgis/")
 
-time.sleep(15)
+time.sleep(20)
 
-browser_info = driver.execute_script("return [window.screenX, window.screenY, window.outerWidth, window.outerHeight];")
-browser_x, browser_y, browser_width, browser_height = browser_info
-screenWidth, screenHeight = pyautogui.size()
-
+try:
 # 找到所有水文站
-elements = driver.find_elements(By.CSS_SELECTOR,"a[onclick^='locatSwz']")
-message_box("find elements: " + str(len(elements)))
+    elements = driver.find_elements(By.CSS_SELECTOR,"a[onclick^='locatSwz']")
+    message_box("find elements: " + str(len(elements)))
+except Exception as e:
+    message_box("error: " + str(e))
+    message_box("登陆失败，准备关闭浏览器")
+    driver.quit()
 
 text_list = [element.text for element in elements]
 # 写入水文站列表
@@ -43,6 +44,7 @@ for element in elements:
     time.sleep(5)
 
     try:
+        screenWidth, screenHeight = pyautogui.size() # 获取屏幕的尺寸
         pyautogui.moveTo(screenWidth / 2, 5 + screenHeight / 2)
         pyautogui.click(button='left')
 
@@ -83,5 +85,7 @@ for element in elements:
         closewin(driver)
         continue
 
+
+message_box("main.py全部完成")
 # 关闭浏览器
 driver.quit()
