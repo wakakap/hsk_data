@@ -75,10 +75,7 @@ except Exception as e:
 
 try:
 # 找到所有水文站
-    time.sleep(2)
-    wait = WebDriverWait(driver, 5)
-    elements = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR,"a[onclick^='locatSwz']")))
-    time.sleep(3)#有时候表格会分两次加载出来所以我再找一次
+    time.sleep(8)#有时候表格会分两次加载出来多等一下
     elements = driver.find_elements(By.CSS_SELECTOR,"a[onclick^='locatSwz']")
     message_box("find elements: " + str(len(elements)))
 except Exception as e:
@@ -96,10 +93,8 @@ filter_text_list = filterlist(text_list) # 要做的水文站列表
 message_box("after filter elementlen: " + str(len(filter_text_list)))
 
 for element in elements:
-    element.click()
-    wait = WebDriverWait(driver, 2)
-    posi = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'ol-mouse-position-me')))
-    positxt = posi.text.replace('\n', ',')
+    onclick_value = element.get_attribute("onclick")
+    positxt = str(onclick_value)
 
     with open('./经纬度对应表.txt', 'a',encoding="utf-8") as f:
             f.write(element.text + ':'+positxt + '\n')

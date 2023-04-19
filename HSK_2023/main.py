@@ -101,13 +101,12 @@ for element in elements:
 
     message_box("开始做: "+ element.text)
 
+    # 获取经纬度
+    onclick_value = element.get_attribute("onclick")
+    positxt = str(onclick_value)
+    
     element.click()
     time.sleep(5)
-    wait = WebDriverWait(driver, 2)
-    posi = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'ol-mouse-position-me')))
-    positxt = posi.text.replace('\n', ',')
-
-
     try:
         screenWidth, screenHeight = pyautogui.size() # 获取屏幕的尺寸
         pyautogui.moveTo(screenWidth / 2, 5 + screenHeight / 2)
