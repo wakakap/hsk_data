@@ -75,9 +75,7 @@ except Exception as e:
 
 try:
 # 找到所有水文站
-    wait = WebDriverWait(driver, 5)
-    elements = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR,"a[onclick^='locatSwz']")))
-    time.sleep(3)#有时候表格会分两次加载出来所以我再找一次
+    time.sleep(8)#有时候表格会分两次加载出来多等一下
     elements = driver.find_elements(By.CSS_SELECTOR,"a[onclick^='locatSwz']")
     message_box("find elements: " + str(len(elements)))
 except Exception as e:
