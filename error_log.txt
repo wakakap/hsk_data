@@ -1,0 +1,7 @@
+2023-04-19 15:38:54: find elements: 83
+2023-04-19 15:38:55: 结果已保存至shuiwenzhan.txt文件中！
+2023-04-19 15:38:55: after filter elementlen: 83
+2023-04-19 15:38:59: main.py全部完成
+2023-04-19 15:40:51: find elements: 133
+2023-04-19 15:40:52: after filter elementlen: 133
+2023-04-19 15:41:00: main.py全部完成

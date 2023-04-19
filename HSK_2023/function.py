@@ -28,7 +28,7 @@ def choosedate(driver, datestr):
     message_box("finish date")
 
 # 我不能很好地定位元素，所以本函数中有很多常数用于微调，可能因设备不同而不同
-def movemouse_inwin(element, canvas_element):
+def movemouse_inwin(positxt, element, canvas_element):
     # 将鼠标移到画布元素左中位置
     canvas_left, canvas_top, canvas_width, canvas_height = canvas_element.location['x'], canvas_element.location['y'], canvas_element.size['width'], canvas_element.size['height']
     mouse_x, mouse_y = canvas_left, canvas_top + canvas_height // 2
@@ -49,7 +49,7 @@ def movemouse_inwin(element, canvas_element):
             previous_element_text = canvas_element.text
             # message_box("find canvas_element: " + str(previous_element_text))
             # 将新文本写入CSV文件
-            row = (element.text+"\n"+ previous_element_text).split('\n')
+            row = (positxt+"\n"+ element.text+"\n"+ previous_element_text).split('\n')
             writecsv(row)
 
         # 平移鼠标
