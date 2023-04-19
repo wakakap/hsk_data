@@ -164,3 +164,5292 @@ Backtrace:
 
 2023-04-19 00:20:54: find elements: 0
 2023-04-19 00:20:54: after filter elementlen: 0
+2023-04-19 01:48:08: find elements: 0
+2023-04-19 01:48:08: after filter elementlen: 0
+2023-04-19 04:45:02: find elements: 133
+2023-04-19 04:45:03: after filter elementlen: 126
+2023-04-19 04:45:03: 检测到已经做过: 百色(三)
+2023-04-19 04:45:03: 检测到已经做过: 博白
+2023-04-19 04:45:03: 检测到已经做过: 白蕉
+2023-04-19 04:45:03: 检测到已经做过: 博罗(二)
+2023-04-19 04:45:03: 检测到已经做过: 崇左
+2023-04-19 04:45:03: 检测到已经做过: 常乐
+2023-04-19 04:45:03: 检测到已经做过: 常德(二)
+2023-04-19 04:45:03: 开始做: 赤湾
+2023-04-19 04:45:13: no both try scroll
+2023-04-19 04:45:18: no both try scroll
+2023-04-19 04:45:23: no both try scroll
+2023-04-19 04:45:29: no both try scroll
+2023-04-19 04:45:31: 找到了canvas_element -r-charts
+2023-04-19 04:45:33: finish date
+2023-04-19 04:45:33: find r-charts again
+2023-04-19 04:45:42: find r-charts again
+2023-04-19 04:45:51: find r-charts again
+2023-04-19 04:46:00: find r-charts again
+2023-04-19 04:46:10: find r-charts again
+2023-04-19 04:46:19: find r-charts again
+2023-04-19 04:46:29: 关闭错误
+2023-04-19 04:46:29: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:46:29: 开始做: 潮安
+2023-04-19 04:46:35: 找到了canvas_element -r-charts
+2023-04-19 04:46:36: finish date
+2023-04-19 04:46:36: find r-charts again
+2023-04-19 04:46:45: find r-charts again
+2023-04-19 04:46:54: find r-charts again
+2023-04-19 04:47:04: find r-charts again
+2023-04-19 04:47:13: find r-charts again
+2023-04-19 04:47:22: find r-charts again
+2023-04-19 04:47:32: 关闭错误
+2023-04-19 04:47:32: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:47:32: 开始做: 东江口
+2023-04-19 04:47:39: 找到了canvas_element zr_0
+2023-04-19 04:47:41: finish date
+2023-04-19 04:47:41: find r-charts again
+2023-04-19 04:47:44: second find zr_0
+2023-04-19 04:47:54: find r-charts again
+2023-04-19 04:47:57: second find zr_0
+2023-04-19 04:48:07: find r-charts again
+2023-04-19 04:48:10: second find zr_0
+2023-04-19 04:48:20: find r-charts again
+2023-04-19 04:48:23: second find zr_0
+2023-04-19 04:48:33: find r-charts again
+2023-04-19 04:48:36: second find zr_0
+2023-04-19 04:48:46: find r-charts again
+2023-04-19 04:48:49: second find zr_0
+2023-04-19 04:49:00: 关闭错误
+2023-04-19 04:49:00: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:49:00: 开始做: 担杆岛
+2023-04-19 04:49:07: 找到了canvas_element zr_0
+2023-04-19 04:49:09: finish date
+2023-04-19 04:49:09: find r-charts again
+2023-04-19 04:49:12: second find zr_0
+2023-04-19 04:49:22: find r-charts again
+2023-04-19 04:49:25: second find zr_0
+2023-04-19 04:49:35: find r-charts again
+2023-04-19 04:49:38: second find zr_0
+2023-04-19 04:49:48: find r-charts again
+2023-04-19 04:49:51: second find zr_0
+2023-04-19 04:50:01: find r-charts again
+2023-04-19 04:50:04: second find zr_0
+2023-04-19 04:50:14: find r-charts again
+2023-04-19 04:50:17: second find zr_0
+2023-04-19 04:50:28: 关闭错误
+2023-04-19 04:50:28: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:50:28: 开始做: 大九洲
+2023-04-19 04:50:38: no both try scroll
+2023-04-19 04:50:41: 找到了canvas_element zr_0
+2023-04-19 04:50:42: finish date
+2023-04-19 04:50:42: find r-charts again
+2023-04-19 04:50:45: second find zr_0
+2023-04-19 04:50:55: find r-charts again
+2023-04-19 04:50:58: second find zr_0
+2023-04-19 04:51:08: find r-charts again
+2023-04-19 04:51:11: second find zr_0
+2023-04-19 04:51:21: find r-charts again
+2023-04-19 04:51:24: second find zr_0
+2023-04-19 04:51:34: find r-charts again
+2023-04-19 04:51:37: second find zr_0
+2023-04-19 04:51:47: find r-charts again
+2023-04-19 04:51:50: second find zr_0
+2023-04-19 04:52:01: 关闭错误
+2023-04-19 04:52:01: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:52:01: 开始做: 东海岛
+2023-04-19 04:52:09: 找到了canvas_element zr_0
+2023-04-19 04:52:10: finish date
+2023-04-19 04:52:10: find r-charts again
+2023-04-19 04:52:13: second find zr_0
+2023-04-19 04:52:23: find r-charts again
+2023-04-19 04:52:26: second find zr_0
+2023-04-19 04:52:36: find r-charts again
+2023-04-19 04:52:39: second find zr_0
+2023-04-19 04:52:49: find r-charts again
+2023-04-19 04:52:52: second find zr_0
+2023-04-19 04:53:02: find r-charts again
+2023-04-19 04:53:06: second find zr_0
+2023-04-19 04:53:16: find r-charts again
+2023-04-19 04:53:19: second find zr_0
+2023-04-19 04:53:29: 关闭错误
+2023-04-19 04:53:29: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:53:29: 开始做: 大湟江口(二)
+2023-04-19 04:53:35: 找到了canvas_element -r-charts
+2023-04-19 04:53:36: finish date
+2023-04-19 04:53:36: find r-charts again
+2023-04-19 04:53:45: find r-charts again
+2023-04-19 04:53:55: find r-charts again
+2023-04-19 04:54:04: find r-charts again
+2023-04-19 04:54:13: find r-charts again
+2023-04-19 04:54:23: find r-charts again
+2023-04-19 04:54:32: 关闭错误
+2023-04-19 04:54:32: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:54:32: 开始做: 东场
+2023-04-19 04:54:38: 找到了canvas_element -r-charts
+2023-04-19 04:54:39: finish date
+2023-04-19 04:54:40: find r-charts again
+2023-04-19 04:54:49: find r-charts again
+2023-04-19 04:54:58: find r-charts again
+2023-04-19 04:55:08: find r-charts again
+2023-04-19 04:55:17: find r-charts again
+2023-04-19 04:55:26: find r-charts again
+2023-04-19 04:55:36: 关闭错误
+2023-04-19 04:55:36: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:55:36: 开始做: 大藤峡
+2023-04-19 04:55:42: 找到了canvas_element -r-charts
+2023-04-19 04:55:43: finish date
+2023-04-19 04:55:43: find r-charts again
+2023-04-19 04:55:52: find r-charts again
+2023-04-19 04:56:02: find r-charts again
+2023-04-19 04:56:11: find r-charts again
+2023-04-19 04:56:20: find r-charts again
+2023-04-19 04:56:29: find r-charts again
+2023-04-19 04:56:39: 关闭错误
+2023-04-19 04:56:39: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:56:39: 开始做: 都安
+2023-04-19 04:56:45: 找到了canvas_element -r-charts
+2023-04-19 04:56:46: finish date
+2023-04-19 04:56:46: find r-charts again
+2023-04-19 04:56:55: find r-charts again
+2023-04-19 04:57:04: find r-charts again
+2023-04-19 04:57:13: find r-charts again
+2023-04-19 04:57:22: find r-charts again
+2023-04-19 04:57:31: find r-charts again
+2023-04-19 04:57:40: 关闭错误
+2023-04-19 04:57:40: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:57:40: 开始做: 东溪口
+2023-04-19 04:57:46: 找到了canvas_element -r-charts
+2023-04-19 04:57:47: finish date
+2023-04-19 04:57:47: find r-charts again
+2023-04-19 04:57:57: find r-charts again
+2023-04-19 04:58:06: find r-charts again
+2023-04-19 04:58:15: find r-charts again
+2023-04-19 04:58:25: find r-charts again
+2023-04-19 04:58:34: find r-charts again
+2023-04-19 04:58:44: 关闭错误
+2023-04-19 04:58:44: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:58:44: 开始做: 灯笼山
+2023-04-19 04:58:50: 找到了canvas_element -r-charts
+2023-04-19 04:58:51: finish date
+2023-04-19 04:58:51: find r-charts again
+2023-04-19 04:59:00: find r-charts again
+2023-04-19 04:59:09: find r-charts again
+2023-04-19 04:59:18: find r-charts again
+2023-04-19 04:59:27: find r-charts again
+2023-04-19 04:59:37: find r-charts again
+2023-04-19 04:59:46: 关闭错误
+2023-04-19 04:59:46: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 04:59:46: 开始做: 大敖
+2023-04-19 04:59:52: 找到了canvas_element -r-charts
+2023-04-19 04:59:53: finish date
+2023-04-19 04:59:54: find r-charts again
+2023-04-19 05:00:04: find r-charts again
+2023-04-19 05:00:13: find r-charts again
+2023-04-19 05:00:23: find r-charts again
+2023-04-19 05:00:32: find r-charts again
+2023-04-19 05:00:41: find r-charts again
+2023-04-19 05:00:51: 关闭错误
+2023-04-19 05:00:51: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:00:51: 开始做: 德庆(二)
+2023-04-19 05:01:00: no both try scroll
+2023-04-19 05:01:02: 找到了canvas_element -r-charts
+2023-04-19 05:01:03: finish date
+2023-04-19 05:01:03: find r-charts again
+2023-04-19 05:01:13: find r-charts again
+2023-04-19 05:01:22: find r-charts again
+2023-04-19 05:01:31: find r-charts again
+2023-04-19 05:01:41: find r-charts again
+2023-04-19 05:01:50: find r-charts again
+2023-04-19 05:02:00: 关闭错误
+2023-04-19 05:02:00: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:02:00: 开始做: 富湾海事监测点
+2023-04-19 05:02:07: 找到了canvas_element zr_0
+2023-04-19 05:02:08: finish date
+2023-04-19 05:02:08: find r-charts again
+2023-04-19 05:02:12: second find zr_0
+2023-04-19 05:02:15: 出现问题: 富湾海事监测点
+2023-04-19 05:02:15: Message: 
+
+2023-04-19 05:02:15: 关闭错误
+2023-04-19 05:02:15: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:02:15: 开始做: 放鸡岛
+2023-04-19 05:02:22: 找到了canvas_element zr_0
+2023-04-19 05:02:24: finish date
+2023-04-19 05:02:24: find r-charts again
+2023-04-19 05:02:27: second find zr_0
+2023-04-19 05:02:37: find r-charts again
+2023-04-19 05:02:40: second find zr_0
+2023-04-19 05:02:50: find r-charts again
+2023-04-19 05:02:53: second find zr_0
+2023-04-19 05:03:03: find r-charts again
+2023-04-19 05:03:06: second find zr_0
+2023-04-19 05:03:16: find r-charts again
+2023-04-19 05:03:20: second find zr_0
+2023-04-19 05:03:30: find r-charts again
+2023-04-19 05:03:33: second find zr_0
+2023-04-19 05:03:43: 关闭错误
+2023-04-19 05:03:43: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:03:43: 开始做: 防城港
+2023-04-19 05:03:50: 找到了canvas_element zr_0
+2023-04-19 05:03:52: finish date
+2023-04-19 05:03:52: find r-charts again
+2023-04-19 05:03:55: second find zr_0
+2023-04-19 05:04:05: find r-charts again
+2023-04-19 05:04:08: second find zr_0
+2023-04-19 05:04:18: find r-charts again
+2023-04-19 05:04:21: second find zr_0
+2023-04-19 05:04:31: find r-charts again
+2023-04-19 05:04:34: second find zr_0
+2023-04-19 05:04:44: find r-charts again
+2023-04-19 05:04:47: second find zr_0
+2023-04-19 05:04:57: find r-charts again
+2023-04-19 05:05:00: second find zr_0
+2023-04-19 05:05:10: 关闭错误
+2023-04-19 05:05:10: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:05:10: 开始做: 扶绥
+2023-04-19 05:05:16: 找到了canvas_element -r-charts
+2023-04-19 05:05:17: finish date
+2023-04-19 05:05:18: find r-charts again
+2023-04-19 05:05:27: find r-charts again
+2023-04-19 05:05:36: find r-charts again
+2023-04-19 05:05:45: find r-charts again
+2023-04-19 05:05:55: find r-charts again
+2023-04-19 05:06:04: find r-charts again
+2023-04-19 05:06:14: 关闭错误
+2023-04-19 05:06:14: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:06:14: 开始做: 封开江口
+2023-04-19 05:06:20: 找到了canvas_element -r-charts
+2023-04-19 05:06:21: finish date
+2023-04-19 05:06:21: find r-charts again
+2023-04-19 05:06:30: find r-charts again
+2023-04-19 05:06:39: find r-charts again
+2023-04-19 05:06:49: find r-charts again
+2023-04-19 05:06:58: find r-charts again
+2023-04-19 05:07:07: find r-charts again
+2023-04-19 05:07:17: 关闭错误
+2023-04-19 05:07:17: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:07:17: 开始做: 飞来峡
+2023-04-19 05:07:23: 找到了canvas_element -r-charts
+2023-04-19 05:07:24: finish date
+2023-04-19 05:07:24: find r-charts again
+2023-04-19 05:07:33: find r-charts again
+2023-04-19 05:07:43: find r-charts again
+2023-04-19 05:07:52: find r-charts again
+2023-04-19 05:08:01: find r-charts again
+2023-04-19 05:08:11: find r-charts again
+2023-04-19 05:08:20: 关闭错误
+2023-04-19 05:08:20: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:08:20: 开始做: 汾江站
+2023-04-19 05:08:26: 找到了canvas_element -r-charts
+2023-04-19 05:08:27: finish date
+2023-04-19 05:08:27: find r-charts again
+2023-04-19 05:08:37: find r-charts again
+2023-04-19 05:08:46: find r-charts again
+2023-04-19 05:08:55: find r-charts again
+2023-04-19 05:09:05: find r-charts again
+2023-04-19 05:09:14: find r-charts again
+2023-04-19 05:09:24: 关闭错误
+2023-04-19 05:09:24: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:09:24: 开始做: 桂林
+2023-04-19 05:09:29: 找到了canvas_element -r-charts
+2023-04-19 05:09:31: finish date
+2023-04-19 05:09:31: find r-charts again
+2023-04-19 05:09:40: find r-charts again
+2023-04-19 05:09:49: find r-charts again
+2023-04-19 05:09:59: find r-charts again
+2023-04-19 05:10:08: find r-charts again
+2023-04-19 05:10:17: find r-charts again
+2023-04-19 05:10:27: 关闭错误
+2023-04-19 05:10:27: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:10:27: 开始做: 桂平
+2023-04-19 05:10:33: 找到了canvas_element -r-charts
+2023-04-19 05:10:34: finish date
+2023-04-19 05:10:34: find r-charts again
+2023-04-19 05:10:43: find r-charts again
+2023-04-19 05:10:53: find r-charts again
+2023-04-19 05:11:02: find r-charts again
+2023-04-19 05:11:11: find r-charts again
+2023-04-19 05:11:21: find r-charts again
+2023-04-19 05:11:30: 关闭错误
+2023-04-19 05:11:30: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:11:30: 开始做: 贵港
+2023-04-19 05:11:36: 找到了canvas_element -r-charts
+2023-04-19 05:11:37: finish date
+2023-04-19 05:11:37: find r-charts again
+2023-04-19 05:11:47: find r-charts again
+2023-04-19 05:11:56: find r-charts again
+2023-04-19 05:12:05: find r-charts again
+2023-04-19 05:12:15: find r-charts again
+2023-04-19 05:12:24: find r-charts again
+2023-04-19 05:12:34: 关闭错误
+2023-04-19 05:12:34: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:12:34: 开始做: 归阳
+2023-04-19 05:12:39: 找到了canvas_element -r-charts
+2023-04-19 05:12:41: finish date
+2023-04-19 05:12:41: find r-charts again
+2023-04-19 05:12:50: find r-charts again
+2023-04-19 05:12:59: find r-charts again
+2023-04-19 05:13:08: find r-charts again
+2023-04-19 05:13:17: find r-charts again
+2023-04-19 05:13:26: find r-charts again
+2023-04-19 05:13:36: 关闭错误
+2023-04-19 05:13:36: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:13:36: 开始做: 官冲
+2023-04-19 05:13:42: 找到了canvas_element -r-charts
+2023-04-19 05:13:43: finish date
+2023-04-19 05:13:43: find r-charts again
+2023-04-19 05:13:53: find r-charts again
+2023-04-19 05:14:02: find r-charts again
+2023-04-19 05:14:11: find r-charts again
+2023-04-19 05:14:21: find r-charts again
+2023-04-19 05:14:30: find r-charts again
+2023-04-19 05:14:40: 关闭错误
+2023-04-19 05:14:40: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:14:40: 开始做: 高要
+2023-04-19 05:14:46: 找到了canvas_element -r-charts
+2023-04-19 05:14:47: finish date
+2023-04-19 05:14:47: find r-charts again
+2023-04-19 05:14:57: find r-charts again
+2023-04-19 05:15:06: find r-charts again
+2023-04-19 05:15:15: find r-charts again
+2023-04-19 05:15:24: find r-charts again
+2023-04-19 05:15:34: find r-charts again
+2023-04-19 05:15:43: 关闭错误
+2023-04-19 05:15:43: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:15:43: 开始做: 惠州港
+2023-04-19 05:15:51: 找到了canvas_element zr_0
+2023-04-19 05:15:52: finish date
+2023-04-19 05:15:53: find r-charts again
+2023-04-19 05:15:56: second find zr_0
+2023-04-19 05:16:06: find r-charts again
+2023-04-19 05:16:09: second find zr_0
+2023-04-19 05:16:19: find r-charts again
+2023-04-19 05:16:22: second find zr_0
+2023-04-19 05:16:32: find r-charts again
+2023-04-19 05:16:35: second find zr_0
+2023-04-19 05:16:45: find r-charts again
+2023-04-19 05:16:48: second find zr_0
+2023-04-19 05:16:58: find r-charts again
+2023-04-19 05:17:01: second find zr_0
+2023-04-19 05:17:11: 关闭错误
+2023-04-19 05:17:11: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:17:11: 开始做: 贺州
+2023-04-19 05:17:18: 找到了canvas_element -r-charts
+2023-04-19 05:17:19: finish date
+2023-04-19 05:17:20: find r-charts again
+2023-04-19 05:17:29: find r-charts again
+2023-04-19 05:17:38: find r-charts again
+2023-04-19 05:17:47: find r-charts again
+2023-04-19 05:17:57: find r-charts again
+2023-04-19 05:18:06: find r-charts again
+2023-04-19 05:18:16: 关闭错误
+2023-04-19 05:18:16: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:18:16: 开始做: 横县
+2023-04-19 05:18:21: 找到了canvas_element -r-charts
+2023-04-19 05:18:23: finish date
+2023-04-19 05:18:23: find r-charts again
+2023-04-19 05:18:32: find r-charts again
+2023-04-19 05:18:41: find r-charts again
+2023-04-19 05:18:51: find r-charts again
+2023-04-19 05:19:00: find r-charts again
+2023-04-19 05:19:09: find r-charts again
+2023-04-19 05:19:19: 关闭错误
+2023-04-19 05:19:19: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:19:19: 开始做: 衡阳
+2023-04-19 05:19:25: 找到了canvas_element -r-charts
+2023-04-19 05:19:26: finish date
+2023-04-19 05:19:26: find r-charts again
+2023-04-19 05:19:35: find r-charts again
+2023-04-19 05:19:44: find r-charts again
+2023-04-19 05:19:53: find r-charts again
+2023-04-19 05:20:02: find r-charts again
+2023-04-19 05:20:11: find r-charts again
+2023-04-19 05:20:22: 关闭错误
+2023-04-19 05:20:22: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:20:22: 开始做: 衡山(二)
+2023-04-19 05:20:27: 找到了canvas_element -r-charts
+2023-04-19 05:20:29: finish date
+2023-04-19 05:20:29: find r-charts again
+2023-04-19 05:20:38: find r-charts again
+2023-04-19 05:20:47: find r-charts again
+2023-04-19 05:20:56: find r-charts again
+2023-04-19 05:21:05: find r-charts again
+2023-04-19 05:21:14: find r-charts again
+2023-04-19 05:21:25: 关闭错误
+2023-04-19 05:21:25: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:21:25: 开始做: 黄埔(三)
+2023-04-19 05:21:31: 找到了canvas_element -r-charts
+2023-04-19 05:21:32: finish date
+2023-04-19 05:21:32: find r-charts again
+2023-04-19 05:21:42: find r-charts again
+2023-04-19 05:21:51: find r-charts again
+2023-04-19 05:22:00: find r-charts again
+2023-04-19 05:22:09: find r-charts again
+2023-04-19 05:22:19: find r-charts again
+2023-04-19 05:22:28: 关闭错误
+2023-04-19 05:22:28: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:22:28: 开始做: 横山
+2023-04-19 05:22:34: 找到了canvas_element -r-charts
+2023-04-19 05:22:35: finish date
+2023-04-19 05:22:35: find r-charts again
+2023-04-19 05:22:46: find r-charts again
+2023-04-19 05:22:56: find r-charts again
+2023-04-19 05:23:05: find r-charts again
+2023-04-19 05:23:14: find r-charts again
+2023-04-19 05:23:23: find r-charts again
+2023-04-19 05:23:33: 关闭错误
+2023-04-19 05:23:33: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:23:33: 开始做: 黄金
+2023-04-19 05:23:39: 找到了canvas_element -r-charts
+2023-04-19 05:23:40: finish date
+2023-04-19 05:23:40: find r-charts again
+2023-04-19 05:23:51: find r-charts again
+2023-04-19 05:24:00: find r-charts again
+2023-04-19 05:24:09: find r-charts again
+2023-04-19 05:24:18: find r-charts again
+2023-04-19 05:24:28: find r-charts again
+2023-04-19 05:24:37: 关闭错误
+2023-04-19 05:24:37: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:24:37: 开始做: 横门
+2023-04-19 05:24:43: 找到了canvas_element -r-charts
+2023-04-19 05:24:44: finish date
+2023-04-19 05:24:44: find r-charts again
+2023-04-19 05:24:55: find r-charts again
+2023-04-19 05:25:05: find r-charts again
+2023-04-19 05:25:14: find r-charts again
+2023-04-19 05:25:23: find r-charts again
+2023-04-19 05:25:32: find r-charts again
+2023-04-19 05:25:42: 关闭错误
+2023-04-19 05:25:42: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:25:42: 开始做: 河源
+2023-04-19 05:25:49: 找到了canvas_element -r-charts
+2023-04-19 05:25:50: finish date
+2023-04-19 05:25:50: find r-charts again
+2023-04-19 05:25:59: find r-charts again
+2023-04-19 05:26:09: find r-charts again
+2023-04-19 05:26:18: find r-charts again
+2023-04-19 05:26:27: find r-charts again
+2023-04-19 05:26:37: find r-charts again
+2023-04-19 05:26:46: 关闭错误
+2023-04-19 05:26:46: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:26:46: 开始做: 惠阳(二)
+2023-04-19 05:26:53: 找到了canvas_element -r-charts
+2023-04-19 05:26:54: finish date
+2023-04-19 05:26:54: find r-charts again
+2023-04-19 05:27:04: find r-charts again
+2023-04-19 05:27:13: find r-charts again
+2023-04-19 05:27:22: find r-charts again
+2023-04-19 05:27:32: find r-charts again
+2023-04-19 05:27:41: find r-charts again
+2023-04-19 05:27:51: 关闭错误
+2023-04-19 05:27:51: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:27:51: 开始做: 津市(二)
+2023-04-19 05:27:56: 找到了canvas_element -r-charts
+2023-04-19 05:27:58: finish date
+2023-04-19 05:27:58: find r-charts again
+2023-04-19 05:28:07: find r-charts again
+2023-04-19 05:28:16: find r-charts again
+2023-04-19 05:28:25: find r-charts again
+2023-04-19 05:28:34: find r-charts again
+2023-04-19 05:28:43: find r-charts again
+2023-04-19 05:28:53: 关闭错误
+2023-04-19 05:28:53: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:28:53: 开始做: 江门
+2023-04-19 05:29:03: no both try scroll
+2023-04-19 05:29:08: no both try scroll
+2023-04-19 05:29:13: no both try scroll
+2023-04-19 05:29:19: no both try scroll
+2023-04-19 05:29:24: no both try scroll
+2023-04-19 05:29:29: no both try scroll
+2023-04-19 05:29:35: 已经尝试了 6 次，仍然无法找到元素
+2023-04-19 05:29:35: 出现问题: 江门
+2023-04-19 05:29:35: local variable 'canvas_element' referenced before assignment
+2023-04-19 05:29:37: 开始做: 柳城
+2023-04-19 05:29:43: 找到了canvas_element -r-charts
+2023-04-19 05:29:44: finish date
+2023-04-19 05:29:44: find r-charts again
+2023-04-19 05:29:54: find r-charts again
+2023-04-19 05:30:03: find r-charts again
+2023-04-19 05:30:12: find r-charts again
+2023-04-19 05:30:22: find r-charts again
+2023-04-19 05:30:31: find r-charts again
+2023-04-19 05:30:41: 关闭错误
+2023-04-19 05:30:41: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:30:41: 开始做: 柳州
+2023-04-19 05:30:46: 找到了canvas_element -r-charts
+2023-04-19 05:30:48: finish date
+2023-04-19 05:30:48: find r-charts again
+2023-04-19 05:30:57: find r-charts again
+2023-04-19 05:31:06: find r-charts again
+2023-04-19 05:31:15: find r-charts again
+2023-04-19 05:31:25: find r-charts again
+2023-04-19 05:31:34: find r-charts again
+2023-04-19 05:31:44: 关闭错误
+2023-04-19 05:31:44: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:31:44: 开始做: 龙州
+2023-04-19 05:31:50: 找到了canvas_element -r-charts
+2023-04-19 05:31:51: finish date
+2023-04-19 05:31:51: find r-charts again
+2023-04-19 05:32:00: find r-charts again
+2023-04-19 05:32:10: find r-charts again
+2023-04-19 05:32:19: find r-charts again
+2023-04-19 05:32:28: find r-charts again
+2023-04-19 05:32:38: find r-charts again
+2023-04-19 05:32:47: 关闭错误
+2023-04-19 05:32:47: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:32:47: 开始做: 隆安
+2023-04-19 05:32:53: 找到了canvas_element -r-charts
+2023-04-19 05:32:54: finish date
+2023-04-19 05:32:54: find r-charts again
+2023-04-19 05:33:04: find r-charts again
+2023-04-19 05:33:13: find r-charts again
+2023-04-19 05:33:22: find r-charts again
+2023-04-19 05:33:32: find r-charts again
+2023-04-19 05:33:41: find r-charts again
+2023-04-19 05:33:51: 关闭错误
+2023-04-19 05:33:51: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:33:51: 开始做: 来宾
+2023-04-19 05:33:56: 找到了canvas_element -r-charts
+2023-04-19 05:33:58: finish date
+2023-04-19 05:33:58: find r-charts again
+2023-04-19 05:34:07: find r-charts again
+2023-04-19 05:34:16: find r-charts again
+2023-04-19 05:34:26: find r-charts again
+2023-04-19 05:34:35: find r-charts again
+2023-04-19 05:34:45: find r-charts again
+2023-04-19 05:34:54: 关闭错误
+2023-04-19 05:34:54: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:34:54: 开始做: 龙圩
+2023-04-19 05:35:00: 找到了canvas_element -r-charts
+2023-04-19 05:35:01: finish date
+2023-04-19 05:35:01: find r-charts again
+2023-04-19 05:35:10: find r-charts again
+2023-04-19 05:35:20: find r-charts again
+2023-04-19 05:35:29: find r-charts again
+2023-04-19 05:35:38: find r-charts again
+2023-04-19 05:35:47: find r-charts again
+2023-04-19 05:35:57: 关闭错误
+2023-04-19 05:35:57: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:35:57: 开始做: 峦城
+2023-04-19 05:36:03: 找到了canvas_element -r-charts
+2023-04-19 05:36:04: finish date
+2023-04-19 05:36:04: find r-charts again
+2023-04-19 05:36:13: find r-charts again
+2023-04-19 05:36:23: find r-charts again
+2023-04-19 05:36:32: find r-charts again
+2023-04-19 05:36:41: find r-charts again
+2023-04-19 05:36:50: find r-charts again
+2023-04-19 05:37:00: 关闭错误
+2023-04-19 05:37:00: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:37:00: 开始做: 老埠头
+2023-04-19 05:37:06: 找到了canvas_element -r-charts
+2023-04-19 05:37:07: finish date
+2023-04-19 05:37:07: find r-charts again
+2023-04-19 05:37:17: find r-charts again
+2023-04-19 05:37:26: find r-charts again
+2023-04-19 05:37:35: find r-charts again
+2023-04-19 05:37:44: find r-charts again
+2023-04-19 05:37:54: find r-charts again
+2023-04-19 05:38:04: 关闭错误
+2023-04-19 05:38:04: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:38:04: 开始做: 冷水滩
+2023-04-19 05:38:10: 找到了canvas_element -r-charts
+2023-04-19 05:38:11: finish date
+2023-04-19 05:38:11: find r-charts again
+2023-04-19 05:38:20: find r-charts again
+2023-04-19 05:38:29: find r-charts again
+2023-04-19 05:38:38: find r-charts again
+2023-04-19 05:38:48: find r-charts again
+2023-04-19 05:38:57: find r-charts again
+2023-04-19 05:39:07: 关闭错误
+2023-04-19 05:39:07: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:39:07: 开始做: 澧县(二)
+2023-04-19 05:39:13: 找到了canvas_element -r-charts
+2023-04-19 05:39:14: finish date
+2023-04-19 05:39:14: find r-charts again
+2023-04-19 05:39:23: find r-charts again
+2023-04-19 05:39:32: find r-charts again
+2023-04-19 05:39:41: find r-charts again
+2023-04-19 05:39:50: find r-charts again
+2023-04-19 05:39:59: find r-charts again
+2023-04-19 05:40:09: 关闭错误
+2023-04-19 05:40:09: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:40:09: 开始做: 老鸦岗(二)
+2023-04-19 05:40:15: 找到了canvas_element -r-charts
+2023-04-19 05:40:16: finish date
+2023-04-19 05:40:16: find r-charts again
+2023-04-19 05:40:25: find r-charts again
+2023-04-19 05:40:35: find r-charts again
+2023-04-19 05:40:44: find r-charts again
+2023-04-19 05:40:53: find r-charts again
+2023-04-19 05:41:02: find r-charts again
+2023-04-19 05:41:12: 关闭错误
+2023-04-19 05:41:12: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:41:12: 开始做: 留隍
+2023-04-19 05:41:22: no both try scroll
+2023-04-19 05:41:23: 找到了canvas_element -r-charts
+2023-04-19 05:41:25: finish date
+2023-04-19 05:41:25: find r-charts again
+2023-04-19 05:41:34: find r-charts again
+2023-04-19 05:41:43: find r-charts again
+2023-04-19 05:41:53: find r-charts again
+2023-04-19 05:42:02: find r-charts again
+2023-04-19 05:42:11: find r-charts again
+2023-04-19 05:42:21: 关闭错误
+2023-04-19 05:42:21: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:42:21: 开始做: 岭下
+2023-04-19 05:42:27: 找到了canvas_element -r-charts
+2023-04-19 05:42:28: finish date
+2023-04-19 05:42:28: find r-charts again
+2023-04-19 05:42:37: find r-charts again
+2023-04-19 05:42:47: find r-charts again
+2023-04-19 05:42:56: find r-charts again
+2023-04-19 05:43:05: find r-charts again
+2023-04-19 05:43:15: find r-charts again
+2023-04-19 05:43:24: 关闭错误
+2023-04-19 05:43:24: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:43:24: 开始做: 龙川
+2023-04-19 05:43:30: 找到了canvas_element -r-charts
+2023-04-19 05:43:31: finish date
+2023-04-19 05:43:31: find r-charts again
+2023-04-19 05:43:41: find r-charts again
+2023-04-19 05:43:50: find r-charts again
+2023-04-19 05:43:59: find r-charts again
+2023-04-19 05:44:09: find r-charts again
+2023-04-19 05:44:18: find r-charts again
+2023-04-19 05:44:28: 关闭错误
+2023-04-19 05:44:28: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:44:28: 开始做: 连江口(二)
+2023-04-19 05:44:33: 找到了canvas_element -r-charts
+2023-04-19 05:44:35: finish date
+2023-04-19 05:44:35: find r-charts again
+2023-04-19 05:44:44: find r-charts again
+2023-04-19 05:44:53: find r-charts again
+2023-04-19 05:45:03: find r-charts again
+2023-04-19 05:45:12: find r-charts again
+2023-04-19 05:45:21: find r-charts again
+2023-04-19 05:45:31: 关闭错误
+2023-04-19 05:45:31: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:45:31: 开始做: 马鞍
+2023-04-19 05:45:40: no both try scroll
+2023-04-19 05:45:42: 找到了canvas_element -r-charts
+2023-04-19 05:45:44: finish date
+2023-04-19 05:45:44: find r-charts again
+2023-04-19 05:45:53: find r-charts again
+2023-04-19 05:46:02: find r-charts again
+2023-04-19 05:46:12: find r-charts again
+2023-04-19 05:46:21: find r-charts again
+2023-04-19 05:46:30: find r-charts again
+2023-04-19 05:46:40: 关闭错误
+2023-04-19 05:46:40: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:46:40: 开始做: 马口
+2023-04-19 05:46:46: 找到了canvas_element -r-charts
+2023-04-19 05:46:47: finish date
+2023-04-19 05:46:47: find r-charts again
+2023-04-19 05:46:58: find r-charts again
+2023-04-19 05:47:07: find r-charts again
+2023-04-19 05:47:16: find r-charts again
+2023-04-19 05:47:26: find r-charts again
+2023-04-19 05:47:35: find r-charts again
+2023-04-19 05:47:44: 关闭错误
+2023-04-19 05:47:44: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:47:44: 开始做: 坭洲头
+2023-04-19 05:47:52: 找到了canvas_element zr_0
+2023-04-19 05:47:54: finish date
+2023-04-19 05:47:54: find r-charts again
+2023-04-19 05:47:57: second find zr_0
+2023-04-19 05:48:07: find r-charts again
+2023-04-19 05:48:10: second find zr_0
+2023-04-19 05:48:20: find r-charts again
+2023-04-19 05:48:23: second find zr_0
+2023-04-19 05:48:33: find r-charts again
+2023-04-19 05:48:36: second find zr_0
+2023-04-19 05:48:46: find r-charts again
+2023-04-19 05:48:49: second find zr_0
+2023-04-19 05:48:59: find r-charts again
+2023-04-19 05:49:02: second find zr_0
+2023-04-19 05:49:13: 关闭错误
+2023-04-19 05:49:13: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:49:13: 开始做: 南石头
+2023-04-19 05:49:20: 找到了canvas_element zr_0
+2023-04-19 05:49:23: finish date
+2023-04-19 05:49:23: find r-charts again
+2023-04-19 05:49:26: second find zr_0
+2023-04-19 05:49:36: find r-charts again
+2023-04-19 05:49:39: second find zr_0
+2023-04-19 05:49:49: find r-charts again
+2023-04-19 05:49:52: second find zr_0
+2023-04-19 05:50:02: find r-charts again
+2023-04-19 05:50:05: second find zr_0
+2023-04-19 05:50:15: find r-charts again
+2023-04-19 05:50:18: second find zr_0
+2023-04-19 05:50:28: find r-charts again
+2023-04-19 05:50:31: second find zr_0
+2023-04-19 05:50:42: 关闭错误
+2023-04-19 05:50:42: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:50:42: 开始做: 内伶仃
+2023-04-19 05:50:49: 找到了canvas_element zr_0
+2023-04-19 05:50:51: finish date
+2023-04-19 05:50:51: find r-charts again
+2023-04-19 05:50:54: second find zr_0
+2023-04-19 05:51:04: find r-charts again
+2023-04-19 05:51:07: second find zr_0
+2023-04-19 05:51:17: find r-charts again
+2023-04-19 05:51:20: second find zr_0
+2023-04-19 05:51:30: find r-charts again
+2023-04-19 05:51:33: second find zr_0
+2023-04-19 05:51:43: find r-charts again
+2023-04-19 05:51:46: second find zr_0
+2023-04-19 05:51:56: find r-charts again
+2023-04-19 05:51:59: second find zr_0
+2023-04-19 05:52:10: 关闭错误
+2023-04-19 05:52:10: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:52:10: 开始做: 宁明
+2023-04-19 05:52:16: 找到了canvas_element -r-charts
+2023-04-19 05:52:17: finish date
+2023-04-19 05:52:17: find r-charts again
+2023-04-19 05:52:26: find r-charts again
+2023-04-19 05:52:35: find r-charts again
+2023-04-19 05:52:45: find r-charts again
+2023-04-19 05:52:54: find r-charts again
+2023-04-19 05:53:03: find r-charts again
+2023-04-19 05:53:13: 关闭错误
+2023-04-19 05:53:13: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:53:13: 开始做: 南宁（三）
+2023-04-19 05:53:19: 找到了canvas_element -r-charts
+2023-04-19 05:53:20: finish date
+2023-04-19 05:53:20: find r-charts again
+2023-04-19 05:53:29: find r-charts again
+2023-04-19 05:53:39: find r-charts again
+2023-04-19 05:53:48: find r-charts again
+2023-04-19 05:53:57: find r-charts again
+2023-04-19 05:54:07: find r-charts again
+2023-04-19 05:54:16: 关闭错误
+2023-04-19 05:54:16: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:54:16: 开始做: 南沙
+2023-04-19 05:54:22: 找到了canvas_element -r-charts
+2023-04-19 05:54:23: finish date
+2023-04-19 05:54:23: find r-charts again
+2023-04-19 05:54:33: find r-charts again
+2023-04-19 05:54:42: find r-charts again
+2023-04-19 05:54:51: find r-charts again
+2023-04-19 05:55:00: find r-charts again
+2023-04-19 05:55:10: find r-charts again
+2023-04-19 05:55:19: 关闭错误
+2023-04-19 05:55:19: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:55:19: 开始做: 平南
+2023-04-19 05:55:26: 找到了canvas_element -r-charts
+2023-04-19 05:55:28: finish date
+2023-04-19 05:55:28: find r-charts again
+2023-04-19 05:55:37: find r-charts again
+2023-04-19 05:55:47: find r-charts again
+2023-04-19 05:55:56: find r-charts again
+2023-04-19 05:56:05: find r-charts again
+2023-04-19 05:56:14: find r-charts again
+2023-04-19 05:56:24: 关闭错误
+2023-04-19 05:56:24: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:56:24: 开始做: 平乐
+2023-04-19 05:56:30: 找到了canvas_element -r-charts
+2023-04-19 05:56:31: finish date
+2023-04-19 05:56:31: find r-charts again
+2023-04-19 05:56:41: find r-charts again
+2023-04-19 05:56:50: find r-charts again
+2023-04-19 05:56:59: find r-charts again
+2023-04-19 05:57:09: find r-charts again
+2023-04-19 05:57:18: find r-charts again
+2023-04-19 05:57:28: 关闭错误
+2023-04-19 05:57:28: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:57:28: 开始做: 清澜港
+2023-04-19 05:57:35: 找到了canvas_element zr_0
+2023-04-19 05:57:36: finish date
+2023-04-19 05:57:36: find r-charts again
+2023-04-19 05:57:40: second find zr_0
+2023-04-19 05:57:50: find r-charts again
+2023-04-19 05:57:53: second find zr_0
+2023-04-19 05:58:03: find r-charts again
+2023-04-19 05:58:06: second find zr_0
+2023-04-19 05:58:16: find r-charts again
+2023-04-19 05:58:19: second find zr_0
+2023-04-19 05:58:29: find r-charts again
+2023-04-19 05:58:32: second find zr_0
+2023-04-19 05:58:42: find r-charts again
+2023-04-19 05:58:45: second find zr_0
+2023-04-19 05:58:55: 关闭错误
+2023-04-19 05:58:55: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 05:58:55: 开始做: 钦州港
+2023-04-19 05:59:03: 找到了canvas_element zr_0
+2023-04-19 05:59:04: finish date
+2023-04-19 05:59:04: find r-charts again
+2023-04-19 05:59:07: second find zr_0
+2023-04-19 05:59:17: find r-charts again
+2023-04-19 05:59:20: second find zr_0
+2023-04-19 05:59:30: find r-charts again
+2023-04-19 05:59:33: second find zr_0
+2023-04-19 05:59:43: find r-charts again
+2023-04-19 05:59:46: second find zr_0
+2023-04-19 05:59:56: find r-charts again
+2023-04-19 05:59:59: second find zr_0
+2023-04-19 06:00:09: find r-charts again
+2023-04-19 06:00:12: second find zr_0
+2023-04-19 06:00:23: 关闭错误
+2023-04-19 06:00:23: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:00:23: 开始做: 迁江
+2023-04-19 06:00:29: 找到了canvas_element -r-charts
+2023-04-19 06:00:30: finish date
+2023-04-19 06:00:30: find r-charts again
+2023-04-19 06:00:39: find r-charts again
+2023-04-19 06:00:48: find r-charts again
+2023-04-19 06:00:58: find r-charts again
+2023-04-19 06:01:07: find r-charts again
+2023-04-19 06:01:16: find r-charts again
+2023-04-19 06:01:26: 关闭错误
+2023-04-19 06:01:26: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:01:26: 开始做: 钦州(闸上)
+2023-04-19 06:01:32: 找到了canvas_element -r-charts
+2023-04-19 06:01:33: finish date
+2023-04-19 06:01:33: find r-charts again
+2023-04-19 06:01:42: find r-charts again
+2023-04-19 06:01:52: find r-charts again
+2023-04-19 06:02:01: find r-charts again
+2023-04-19 06:02:11: find r-charts again
+2023-04-19 06:02:20: find r-charts again
+2023-04-19 06:02:29: 关闭错误
+2023-04-19 06:02:29: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:02:29: 开始做: 钦州(闸下)
+2023-04-19 06:02:39: no both try scroll
+2023-04-19 06:02:44: no both try scroll
+2023-04-19 06:02:46: 找到了canvas_element -r-charts
+2023-04-19 06:02:47: finish date
+2023-04-19 06:02:47: find r-charts again
+2023-04-19 06:02:56: find r-charts again
+2023-04-19 06:03:06: find r-charts again
+2023-04-19 06:03:15: find r-charts again
+2023-04-19 06:03:24: find r-charts again
+2023-04-19 06:03:34: find r-charts again
+2023-04-19 06:03:43: 关闭错误
+2023-04-19 06:03:43: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:03:43: 开始做: 祁阳(二)
+2023-04-19 06:03:49: 找到了canvas_element -r-charts
+2023-04-19 06:03:50: finish date
+2023-04-19 06:03:50: find r-charts again
+2023-04-19 06:04:00: find r-charts again
+2023-04-19 06:04:09: find r-charts again
+2023-04-19 06:04:18: find r-charts again
+2023-04-19 06:04:27: find r-charts again
+2023-04-19 06:04:36: find r-charts again
+2023-04-19 06:04:46: 关闭错误
+2023-04-19 06:04:46: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:04:46: 开始做: 清远(三)
+2023-04-19 06:04:52: 找到了canvas_element -r-charts
+2023-04-19 06:04:53: finish date
+2023-04-19 06:04:54: find r-charts again
+2023-04-19 06:05:03: find r-charts again
+2023-04-19 06:05:12: find r-charts again
+2023-04-19 06:05:21: find r-charts again
+2023-04-19 06:05:31: find r-charts again
+2023-04-19 06:05:40: find r-charts again
+2023-04-19 06:05:49: 关闭错误
+2023-04-19 06:05:49: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:05:50: 开始做: 融水
+2023-04-19 06:05:56: 找到了canvas_element -r-charts
+2023-04-19 06:05:57: finish date
+2023-04-19 06:05:57: find r-charts again
+2023-04-19 06:06:06: find r-charts again
+2023-04-19 06:06:16: find r-charts again
+2023-04-19 06:06:25: find r-charts again
+2023-04-19 06:06:34: find r-charts again
+2023-04-19 06:06:44: find r-charts again
+2023-04-19 06:06:53: 关闭错误
+2023-04-19 06:06:53: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:06:53: 开始做: 容奇(二)
+2023-04-19 06:06:59: 找到了canvas_element -r-charts
+2023-04-19 06:07:00: finish date
+2023-04-19 06:07:00: find r-charts again
+2023-04-19 06:07:10: find r-charts again
+2023-04-19 06:07:19: find r-charts again
+2023-04-19 06:07:28: find r-charts again
+2023-04-19 06:07:37: find r-charts again
+2023-04-19 06:07:47: find r-charts again
+2023-04-19 06:07:56: 关闭错误
+2023-04-19 06:07:56: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:07:56: 开始做: 舢舨洲
+2023-04-19 06:08:04: 找到了canvas_element zr_0
+2023-04-19 06:08:06: finish date
+2023-04-19 06:08:06: find r-charts again
+2023-04-19 06:08:09: second find zr_0
+2023-04-19 06:08:19: find r-charts again
+2023-04-19 06:08:22: second find zr_0
+2023-04-19 06:08:32: find r-charts again
+2023-04-19 06:08:35: second find zr_0
+2023-04-19 06:08:45: find r-charts again
+2023-04-19 06:08:48: second find zr_0
+2023-04-19 06:08:58: find r-charts again
+2023-04-19 06:09:01: second find zr_0
+2023-04-19 06:09:11: find r-charts again
+2023-04-19 06:09:14: second find zr_0
+2023-04-19 06:09:25: 关闭错误
+2023-04-19 06:09:25: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:09:25: 开始做: 四尺岩
+2023-04-19 06:09:32: 找到了canvas_element zr_0
+2023-04-19 06:09:34: finish date
+2023-04-19 06:09:34: find r-charts again
+2023-04-19 06:09:37: second find zr_0
+2023-04-19 06:09:47: find r-charts again
+2023-04-19 06:09:50: second find zr_0
+2023-04-19 06:10:00: find r-charts again
+2023-04-19 06:10:03: second find zr_0
+2023-04-19 06:10:13: find r-charts again
+2023-04-19 06:10:16: second find zr_0
+2023-04-19 06:10:26: find r-charts again
+2023-04-19 06:10:29: second find zr_0
+2023-04-19 06:10:39: find r-charts again
+2023-04-19 06:10:42: second find zr_0
+2023-04-19 06:10:53: 关闭错误
+2023-04-19 06:10:53: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:10:53: 开始做: 水东海事监测点
+2023-04-19 06:11:02: no both try scroll
+2023-04-19 06:11:06: 找到了canvas_element zr_0
+2023-04-19 06:11:07: finish date
+2023-04-19 06:11:07: find r-charts again
+2023-04-19 06:11:10: second find zr_0
+2023-04-19 06:11:13: 出现问题: 水东海事监测点
+2023-04-19 06:11:13: Message: 
+
+2023-04-19 06:11:14: 关闭错误
+2023-04-19 06:11:14: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:11:14: 开始做: 三墩水文站
+2023-04-19 06:11:21: 找到了canvas_element zr_0
+2023-04-19 06:11:22: finish date
+2023-04-19 06:11:22: find r-charts again
+2023-04-19 06:11:25: second find zr_0
+2023-04-19 06:11:28: 出现问题: 三墩水文站
+2023-04-19 06:11:28: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00FB08F9]
+	(No symbol) [0x00FB0AFB]
+	(No symbol) [0x00FDF902]
+	(No symbol) [0x00FCB944]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:11:29: 关闭错误
+2023-04-19 06:11:29: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:11:29: 开始做: 山狗吼海事监测点
+2023-04-19 06:11:36: 找到了canvas_element zr_0
+2023-04-19 06:11:37: finish date
+2023-04-19 06:11:37: find r-charts again
+2023-04-19 06:11:40: second find zr_0
+2023-04-19 06:11:44: 出现问题: 山狗吼海事监测点
+2023-04-19 06:11:44: Message: 
+
+2023-04-19 06:11:44: 关闭错误
+2023-04-19 06:11:44: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:11:44: 开始做: 汕头港
+2023-04-19 06:11:52: 找到了canvas_element zr_0
+2023-04-19 06:11:53: finish date
+2023-04-19 06:11:53: find r-charts again
+2023-04-19 06:11:56: second find zr_0
+2023-04-19 06:12:06: find r-charts again
+2023-04-19 06:12:09: second find zr_0
+2023-04-19 06:12:19: find r-charts again
+2023-04-19 06:12:22: second find zr_0
+2023-04-19 06:12:32: find r-charts again
+2023-04-19 06:12:35: second find zr_0
+2023-04-19 06:12:45: find r-charts again
+2023-04-19 06:12:48: second find zr_0
+2023-04-19 06:12:58: find r-charts again
+2023-04-19 06:13:01: second find zr_0
+2023-04-19 06:13:12: 关闭错误
+2023-04-19 06:13:12: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:13:12: 开始做: 三岔
+2023-04-19 06:13:17: 找到了canvas_element -r-charts
+2023-04-19 06:13:19: finish date
+2023-04-19 06:13:19: find r-charts again
+2023-04-19 06:13:28: find r-charts again
+2023-04-19 06:13:37: find r-charts again
+2023-04-19 06:13:47: find r-charts again
+2023-04-19 06:13:56: find r-charts again
+2023-04-19 06:14:05: find r-charts again
+2023-04-19 06:14:15: 关闭错误
+2023-04-19 06:14:15: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:14:15: 开始做: 邵阳
+2023-04-19 06:14:20: 找到了canvas_element -r-charts
+2023-04-19 06:14:22: finish date
+2023-04-19 06:14:22: find r-charts again
+2023-04-19 06:14:31: find r-charts again
+2023-04-19 06:14:40: find r-charts again
+2023-04-19 06:14:49: find r-charts again
+2023-04-19 06:14:58: find r-charts again
+2023-04-19 06:15:07: find r-charts again
+2023-04-19 06:15:17: 关闭错误
+2023-04-19 06:15:17: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:15:17: 开始做: 石门
+2023-04-19 06:15:22: 找到了canvas_element -r-charts
+2023-04-19 06:15:24: finish date
+2023-04-19 06:15:24: find r-charts again
+2023-04-19 06:15:33: find r-charts again
+2023-04-19 06:15:42: find r-charts again
+2023-04-19 06:15:51: find r-charts again
+2023-04-19 06:16:00: find r-charts again
+2023-04-19 06:16:09: find r-charts again
+2023-04-19 06:16:19: 关闭错误
+2023-04-19 06:16:19: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:16:19: 开始做: 石咀
+2023-04-19 06:16:25: 找到了canvas_element -r-charts
+2023-04-19 06:16:26: finish date
+2023-04-19 06:16:26: find r-charts again
+2023-04-19 06:16:35: find r-charts again
+2023-04-19 06:16:45: find r-charts again
+2023-04-19 06:16:54: find r-charts again
+2023-04-19 06:17:03: find r-charts again
+2023-04-19 06:17:12: find r-charts again
+2023-04-19 06:17:22: 关闭错误
+2023-04-19 06:17:22: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:17:22: 开始做: 狮山
+2023-04-19 06:17:29: 找到了canvas_element -r-charts
+2023-04-19 06:17:31: finish date
+2023-04-19 06:17:31: find r-charts again
+2023-04-19 06:17:40: find r-charts again
+2023-04-19 06:17:49: find r-charts again
+2023-04-19 06:17:58: find r-charts again
+2023-04-19 06:18:08: find r-charts again
+2023-04-19 06:18:17: find r-charts again
+2023-04-19 06:18:27: 关闭错误
+2023-04-19 06:18:27: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:18:27: 开始做: 泗盛围
+2023-04-19 06:18:33: 找到了canvas_element -r-charts
+2023-04-19 06:18:34: finish date
+2023-04-19 06:18:34: find r-charts again
+2023-04-19 06:18:43: find r-charts again
+2023-04-19 06:18:52: find r-charts again
+2023-04-19 06:19:02: find r-charts again
+2023-04-19 06:19:11: find r-charts again
+2023-04-19 06:19:20: find r-charts again
+2023-04-19 06:19:30: 关闭错误
+2023-04-19 06:19:30: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:19:30: 开始做: 三灶
+2023-04-19 06:19:36: 找到了canvas_element -r-charts
+2023-04-19 06:19:37: finish date
+2023-04-19 06:19:37: find r-charts again
+2023-04-19 06:19:48: find r-charts again
+2023-04-19 06:19:57: find r-charts again
+2023-04-19 06:20:06: find r-charts again
+2023-04-19 06:20:16: find r-charts again
+2023-04-19 06:20:25: find r-charts again
+2023-04-19 06:20:35: 关闭错误
+2023-04-19 06:20:35: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:20:35: 开始做: 三善滘
+2023-04-19 06:20:40: 找到了canvas_element -r-charts
+2023-04-19 06:20:42: finish date
+2023-04-19 06:20:42: find r-charts again
+2023-04-19 06:20:51: find r-charts again
+2023-04-19 06:21:00: find r-charts again
+2023-04-19 06:21:09: find r-charts again
+2023-04-19 06:21:19: find r-charts again
+2023-04-19 06:21:28: find r-charts again
+2023-04-19 06:21:37: 关闭错误
+2023-04-19 06:21:37: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:21:37: 开始做: 三沙口
+2023-04-19 06:21:43: 找到了canvas_element -r-charts
+2023-04-19 06:21:45: finish date
+2023-04-19 06:21:46: find r-charts again
+2023-04-19 06:21:55: find r-charts again
+2023-04-19 06:22:04: find r-charts again
+2023-04-19 06:22:13: find r-charts again
+2023-04-19 06:22:23: find r-charts again
+2023-04-19 06:22:32: find r-charts again
+2023-04-19 06:22:42: 关闭错误
+2023-04-19 06:22:42: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:22:42: 开始做: 石龙(二)
+2023-04-19 06:22:47: 找到了canvas_element -r-charts
+2023-04-19 06:22:49: finish date
+2023-04-19 06:22:49: find r-charts again
+2023-04-19 06:22:59: find r-charts again
+2023-04-19 06:23:08: find r-charts again
+2023-04-19 06:23:17: find r-charts again
+2023-04-19 06:23:26: find r-charts again
+2023-04-19 06:23:36: find r-charts again
+2023-04-19 06:23:45: 关闭错误
+2023-04-19 06:23:45: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:23:45: 开始做: 韶关(二)
+2023-04-19 06:23:51: 找到了canvas_element -r-charts
+2023-04-19 06:23:52: finish date
+2023-04-19 06:23:52: find r-charts again
+2023-04-19 06:24:02: find r-charts again
+2023-04-19 06:24:11: find r-charts again
+2023-04-19 06:24:20: find r-charts again
+2023-04-19 06:24:30: find r-charts again
+2023-04-19 06:24:39: find r-charts again
+2023-04-19 06:24:49: 关闭错误
+2023-04-19 06:24:49: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:24:49: 开始做: 石角
+2023-04-19 06:24:54: 找到了canvas_element -r-charts
+2023-04-19 06:24:56: finish date
+2023-04-19 06:24:56: find r-charts again
+2023-04-19 06:25:05: find r-charts again
+2023-04-19 06:25:14: find r-charts again
+2023-04-19 06:25:24: find r-charts again
+2023-04-19 06:25:33: find r-charts again
+2023-04-19 06:25:42: find r-charts again
+2023-04-19 06:25:52: 关闭错误
+2023-04-19 06:25:52: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:25:52: 开始做: 三水(二)
+2023-04-19 06:25:59: 找到了canvas_element -r-charts
+2023-04-19 06:26:00: finish date
+2023-04-19 06:26:00: find r-charts again
+2023-04-19 06:26:09: find r-charts again
+2023-04-19 06:26:19: find r-charts again
+2023-04-19 06:26:28: find r-charts again
+2023-04-19 06:26:37: find r-charts again
+2023-04-19 06:26:46: find r-charts again
+2023-04-19 06:26:56: 关闭错误
+2023-04-19 06:26:56: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:26:56: 开始做: 三河坝(三)
+2023-04-19 06:27:02: 找到了canvas_element -r-charts
+2023-04-19 06:27:03: finish date
+2023-04-19 06:27:03: find r-charts again
+2023-04-19 06:27:13: find r-charts again
+2023-04-19 06:27:22: find r-charts again
+2023-04-19 06:27:31: find r-charts again
+2023-04-19 06:27:40: find r-charts again
+2023-04-19 06:27:50: find r-charts again
+2023-04-19 06:27:59: 关闭错误
+2023-04-19 06:27:59: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:27:59: 开始做: 三多
+2023-04-19 06:28:05: 找到了canvas_element -r-charts
+2023-04-19 06:28:06: finish date
+2023-04-19 06:28:07: find r-charts again
+2023-04-19 06:28:16: find r-charts again
+2023-04-19 06:28:25: find r-charts again
+2023-04-19 06:28:34: find r-charts again
+2023-04-19 06:28:44: find r-charts again
+2023-04-19 06:28:53: find r-charts again
+2023-04-19 06:29:03: 关闭错误
+2023-04-19 06:29:03: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:29:03: 开始做: 台山海事监测点
+2023-04-19 06:29:11: 找到了canvas_element zr_0
+2023-04-19 06:29:12: finish date
+2023-04-19 06:29:12: find r-charts again
+2023-04-19 06:29:15: second find zr_0
+2023-04-19 06:29:18: 出现问题: 台山海事监测点
+2023-04-19 06:29:18: Message: 
+
+2023-04-19 06:29:19: 关闭错误
+2023-04-19 06:29:19: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:29:19: 开始做: 天峨
+2023-04-19 06:29:25: 找到了canvas_element -r-charts
+2023-04-19 06:29:26: finish date
+2023-04-19 06:29:26: find r-charts again
+2023-04-19 06:29:35: find r-charts again
+2023-04-19 06:29:45: find r-charts again
+2023-04-19 06:29:54: find r-charts again
+2023-04-19 06:30:03: find r-charts again
+2023-04-19 06:30:12: find r-charts again
+2023-04-19 06:30:22: 关闭错误
+2023-04-19 06:30:22: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:30:22: 开始做: 藤县
+2023-04-19 06:30:28: 找到了canvas_element -r-charts
+2023-04-19 06:30:29: finish date
+2023-04-19 06:30:29: find r-charts again
+2023-04-19 06:30:38: find r-charts again
+2023-04-19 06:30:48: find r-charts again
+2023-04-19 06:30:57: find r-charts again
+2023-04-19 06:31:06: find r-charts again
+2023-04-19 06:31:16: find r-charts again
+2023-04-19 06:31:25: 关闭错误
+2023-04-19 06:31:25: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:31:25: 开始做: 桃江(二)
+2023-04-19 06:31:31: 找到了canvas_element -r-charts
+2023-04-19 06:31:32: finish date
+2023-04-19 06:31:32: find r-charts again
+2023-04-19 06:31:42: find r-charts again
+2023-04-19 06:31:51: find r-charts again
+2023-04-19 06:32:00: find r-charts again
+2023-04-19 06:32:10: find r-charts again
+2023-04-19 06:32:19: find r-charts again
+2023-04-19 06:32:29: 关闭错误
+2023-04-19 06:32:29: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:32:29: 开始做: 桃源
+2023-04-19 06:32:35: 找到了canvas_element -r-charts
+2023-04-19 06:32:36: finish date
+2023-04-19 06:32:36: find r-charts again
+2023-04-19 06:32:45: find r-charts again
+2023-04-19 06:32:55: find r-charts again
+2023-04-19 06:33:04: find r-charts again
+2023-04-19 06:33:13: find r-charts again
+2023-04-19 06:33:22: find r-charts again
+2023-04-19 06:33:32: 关闭错误
+2023-04-19 06:33:32: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:33:32: 开始做: 湾仔海事监测点
+2023-04-19 06:33:40: 找到了canvas_element zr_0
+2023-04-19 06:33:41: finish date
+2023-04-19 06:33:41: find r-charts again
+2023-04-19 06:33:44: second find zr_0
+2023-04-19 06:33:47: 出现问题: 湾仔海事监测点
+2023-04-19 06:33:47: Message: 
+
+2023-04-19 06:33:48: 关闭错误
+2023-04-19 06:33:48: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:33:48: 开始做: 武宣
+2023-04-19 06:33:53: 找到了canvas_element -r-charts
+2023-04-19 06:33:55: finish date
+2023-04-19 06:33:55: find r-charts again
+2023-04-19 06:34:05: find r-charts again
+2023-04-19 06:34:14: find r-charts again
+2023-04-19 06:34:23: find r-charts again
+2023-04-19 06:34:32: find r-charts again
+2023-04-19 06:34:42: find r-charts again
+2023-04-19 06:34:51: 关闭错误
+2023-04-19 06:34:51: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:34:51: 开始做: 梧州（四）
+2023-04-19 06:35:01: no both try scroll
+2023-04-19 06:35:02: 找到了canvas_element -r-charts
+2023-04-19 06:35:04: finish date
+2023-04-19 06:35:04: find r-charts again
+2023-04-19 06:35:13: find r-charts again
+2023-04-19 06:35:22: find r-charts again
+2023-04-19 06:35:32: find r-charts again
+2023-04-19 06:35:41: find r-charts again
+2023-04-19 06:35:50: find r-charts again
+2023-04-19 06:36:00: 关闭错误
+2023-04-19 06:36:00: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:36:00: 开始做: 万顷沙西(二)
+2023-04-19 06:36:06: 找到了canvas_element -r-charts
+2023-04-19 06:36:07: finish date
+2023-04-19 06:36:07: find r-charts again
+2023-04-19 06:36:18: find r-charts again
+2023-04-19 06:36:27: find r-charts again
+2023-04-19 06:36:36: find r-charts again
+2023-04-19 06:36:45: find r-charts again
+2023-04-19 06:36:54: find r-charts again
+2023-04-19 06:37:04: 关闭错误
+2023-04-19 06:37:04: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:37:04: 开始做: 仙屋角
+2023-04-19 06:37:12: 找到了canvas_element zr_0
+2023-04-19 06:37:13: finish date
+2023-04-19 06:37:13: find r-charts again
+2023-04-19 06:37:16: second find zr_0
+2023-04-19 06:37:26: find r-charts again
+2023-04-19 06:37:29: second find zr_0
+2023-04-19 06:37:39: find r-charts again
+2023-04-19 06:37:42: second find zr_0
+2023-04-19 06:37:52: find r-charts again
+2023-04-19 06:37:55: second find zr_0
+2023-04-19 06:38:05: find r-charts again
+2023-04-19 06:38:08: second find zr_0
+2023-04-19 06:38:18: find r-charts again
+2023-04-19 06:38:21: second find zr_0
+2023-04-19 06:38:32: 关闭错误
+2023-04-19 06:38:32: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:38:32: 开始做: 徐闻海事监测点
+2023-04-19 06:38:39: 找到了canvas_element zr_0
+2023-04-19 06:38:41: finish date
+2023-04-19 06:38:41: find r-charts again
+2023-04-19 06:38:44: second find zr_0
+2023-04-19 06:38:47: 出现问题: 徐闻海事监测点
+2023-04-19 06:38:47: Message: 
+
+2023-04-19 06:38:47: 关闭错误
+2023-04-19 06:38:47: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:38:47: 开始做: 象州
+2023-04-19 06:38:57: no both try scroll
+2023-04-19 06:38:59: 找到了canvas_element -r-charts
+2023-04-19 06:39:00: finish date
+2023-04-19 06:39:00: find r-charts again
+2023-04-19 06:39:09: find r-charts again
+2023-04-19 06:39:19: find r-charts again
+2023-04-19 06:39:28: find r-charts again
+2023-04-19 06:39:37: find r-charts again
+2023-04-19 06:39:47: find r-charts again
+2023-04-19 06:39:56: 关闭错误
+2023-04-19 06:39:56: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:39:56: 开始做: 信都（三）
+2023-04-19 06:40:02: 找到了canvas_element -r-charts
+2023-04-19 06:40:03: finish date
+2023-04-19 06:40:03: find r-charts again
+2023-04-19 06:40:13: find r-charts again
+2023-04-19 06:40:22: find r-charts again
+2023-04-19 06:40:31: find r-charts again
+2023-04-19 06:40:41: find r-charts again
+2023-04-19 06:40:50: find r-charts again
+2023-04-19 06:41:00: 关闭错误
+2023-04-19 06:41:00: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:41:00: 开始做: 湘潭
+2023-04-19 06:41:05: 找到了canvas_element -r-charts
+2023-04-19 06:41:07: finish date
+2023-04-19 06:41:07: find r-charts again
+2023-04-19 06:41:16: find r-charts again
+2023-04-19 06:41:25: find r-charts again
+2023-04-19 06:41:34: find r-charts again
+2023-04-19 06:41:43: find r-charts again
+2023-04-19 06:41:52: find r-charts again
+2023-04-19 06:42:02: 关闭错误
+2023-04-19 06:42:02: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:42:02: 开始做: 西炮台
+2023-04-19 06:42:07: 找到了canvas_element -r-charts
+2023-04-19 06:42:09: finish date
+2023-04-19 06:42:09: find r-charts again
+2023-04-19 06:42:18: find r-charts again
+2023-04-19 06:42:27: find r-charts again
+2023-04-19 06:42:36: find r-charts again
+2023-04-19 06:42:46: find r-charts again
+2023-04-19 06:42:55: find r-charts again
+2023-04-19 06:43:05: 关闭错误
+2023-04-19 06:43:05: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:43:05: 开始做: 小榄(二)
+2023-04-19 06:43:10: 找到了canvas_element -r-charts
+2023-04-19 06:43:12: finish date
+2023-04-19 06:43:12: find r-charts again
+2023-04-19 06:43:23: find r-charts again
+2023-04-19 06:43:32: find r-charts again
+2023-04-19 06:43:41: find r-charts again
+2023-04-19 06:43:50: find r-charts again
+2023-04-19 06:43:59: find r-charts again
+2023-04-19 06:44:09: 关闭错误
+2023-04-19 06:44:09: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:44:09: 开始做: 蚬沙(南华)
+2023-04-19 06:44:15: 找到了canvas_element -r-charts
+2023-04-19 06:44:16: finish date
+2023-04-19 06:44:16: find r-charts again
+2023-04-19 06:44:26: find r-charts again
+2023-04-19 06:44:35: find r-charts again
+2023-04-19 06:44:44: find r-charts again
+2023-04-19 06:44:53: find r-charts again
+2023-04-19 06:45:03: find r-charts again
+2023-04-19 06:45:12: 关闭错误
+2023-04-19 06:45:12: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:45:12: 开始做: 阳江海事监测点
+2023-04-19 06:45:20: 找到了canvas_element zr_0
+2023-04-19 06:45:22: finish date
+2023-04-19 06:45:22: find r-charts again
+2023-04-19 06:45:25: second find zr_0
+2023-04-19 06:45:28: 出现问题: 阳江海事监测点
+2023-04-19 06:45:28: Message: 
+
+2023-04-19 06:45:28: 关闭错误
+2023-04-19 06:45:28: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:45:28: 开始做: 阳朔
+2023-04-19 06:45:38: no both try scroll
+2023-04-19 06:45:39: 找到了canvas_element -r-charts
+2023-04-19 06:45:41: finish date
+2023-04-19 06:45:41: find r-charts again
+2023-04-19 06:45:50: find r-charts again
+2023-04-19 06:45:59: find r-charts again
+2023-04-19 06:46:09: find r-charts again
+2023-04-19 06:46:18: find r-charts again
+2023-04-19 06:46:28: find r-charts again
+2023-04-19 06:46:37: 关闭错误
+2023-04-19 06:46:37: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:46:37: 开始做: 益阳(二)
+2023-04-19 06:46:43: 找到了canvas_element -r-charts
+2023-04-19 06:46:44: finish date
+2023-04-19 06:46:44: find r-charts again
+2023-04-19 06:46:53: find r-charts again
+2023-04-19 06:47:02: find r-charts again
+2023-04-19 06:47:11: find r-charts again
+2023-04-19 06:47:21: find r-charts again
+2023-04-19 06:47:30: find r-charts again
+2023-04-19 06:47:39: 关闭错误
+2023-04-19 06:47:39: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:47:39: 开始做: 英德(五)
+2023-04-19 06:47:45: 找到了canvas_element -r-charts
+2023-04-19 06:47:46: finish date
+2023-04-19 06:47:46: find r-charts again
+2023-04-19 06:47:56: find r-charts again
+2023-04-19 06:48:05: find r-charts again
+2023-04-19 06:48:14: find r-charts again
+2023-04-19 06:48:23: find r-charts again
+2023-04-19 06:48:33: find r-charts again
+2023-04-19 06:48:42: 关闭错误
+2023-04-19 06:48:42: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:48:42: 开始做: 珠海港
+2023-04-19 06:48:52: no both try scroll
+2023-04-19 06:48:55: 找到了canvas_element zr_0
+2023-04-19 06:48:56: finish date
+2023-04-19 06:48:56: find r-charts again
+2023-04-19 06:48:59: second find zr_0
+2023-04-19 06:49:09: find r-charts again
+2023-04-19 06:49:12: second find zr_0
+2023-04-19 06:49:22: find r-charts again
+2023-04-19 06:49:25: second find zr_0
+2023-04-19 06:49:35: find r-charts again
+2023-04-19 06:49:39: second find zr_0
+2023-04-19 06:49:49: find r-charts again
+2023-04-19 06:49:52: second find zr_0
+2023-04-19 06:50:02: find r-charts again
+2023-04-19 06:50:05: second find zr_0
+2023-04-19 06:50:15: 关闭错误
+2023-04-19 06:50:15: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:50:15: 开始做: 湛江港
+2023-04-19 06:50:25: no both try scroll
+2023-04-19 06:50:31: no both try scroll
+2023-04-19 06:50:36: no both try scroll
+2023-04-19 06:50:42: no both try scroll
+2023-04-19 06:50:45: 找到了canvas_element zr_0
+2023-04-19 06:50:46: finish date
+2023-04-19 06:50:46: find r-charts again
+2023-04-19 06:50:49: second find zr_0
+2023-04-19 06:50:59: find r-charts again
+2023-04-19 06:51:02: second find zr_0
+2023-04-19 06:51:12: find r-charts again
+2023-04-19 06:51:15: second find zr_0
+2023-04-19 06:51:26: find r-charts again
+2023-04-19 06:51:29: second find zr_0
+2023-04-19 06:51:39: find r-charts again
+2023-04-19 06:51:42: second find zr_0
+2023-04-19 06:51:52: find r-charts again
+2023-04-19 06:51:55: second find zr_0
+2023-04-19 06:52:05: 关闭错误
+2023-04-19 06:52:05: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:52:05: 开始做: 肈庆海事监测点
+2023-04-19 06:52:13: 找到了canvas_element zr_0
+2023-04-19 06:52:14: finish date
+2023-04-19 06:52:14: find r-charts again
+2023-04-19 06:52:17: second find zr_0
+2023-04-19 06:52:20: 出现问题: 肈庆海事监测点
+2023-04-19 06:52:20: Message: 
+
+2023-04-19 06:52:21: 关闭错误
+2023-04-19 06:52:21: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:52:21: 开始做: 长安
+2023-04-19 06:52:26: 找到了canvas_element -r-charts
+2023-04-19 06:52:28: finish date
+2023-04-19 06:52:28: find r-charts again
+2023-04-19 06:52:37: find r-charts again
+2023-04-19 06:52:46: find r-charts again
+2023-04-19 06:52:56: find r-charts again
+2023-04-19 06:53:05: find r-charts again
+2023-04-19 06:53:14: find r-charts again
+2023-04-19 06:53:24: 关闭错误
+2023-04-19 06:53:24: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:53:24: 开始做: 昭平
+2023-04-19 06:53:30: 找到了canvas_element -r-charts
+2023-04-19 06:53:31: finish date
+2023-04-19 06:53:31: find r-charts again
+2023-04-19 06:53:40: find r-charts again
+2023-04-19 06:53:50: find r-charts again
+2023-04-19 06:54:00: find r-charts again
+2023-04-19 06:54:10: find r-charts again
+2023-04-19 06:54:19: find r-charts again
+2023-04-19 06:54:29: 关闭错误
+2023-04-19 06:54:29: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:54:29: 开始做: 株洲
+2023-04-19 06:54:35: 找到了canvas_element -r-charts
+2023-04-19 06:54:36: finish date
+2023-04-19 06:54:36: find r-charts again
+2023-04-19 06:54:45: find r-charts again
+2023-04-19 06:54:54: find r-charts again
+2023-04-19 06:55:03: find r-charts again
+2023-04-19 06:55:13: find r-charts again
+2023-04-19 06:55:22: find r-charts again
+2023-04-19 06:55:32: 关闭错误
+2023-04-19 06:55:32: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:55:32: 开始做: 长沙(三)
+2023-04-19 06:55:42: no both try scroll
+2023-04-19 06:55:43: 找到了canvas_element -r-charts
+2023-04-19 06:55:45: finish date
+2023-04-19 06:55:45: find r-charts again
+2023-04-19 06:55:54: find r-charts again
+2023-04-19 06:56:03: find r-charts again
+2023-04-19 06:56:12: find r-charts again
+2023-04-19 06:56:21: find r-charts again
+2023-04-19 06:56:30: find r-charts again
+2023-04-19 06:56:40: 关闭错误
+2023-04-19 06:56:40: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:56:40: 开始做: 长沙
+2023-04-19 06:56:46: 找到了canvas_element -r-charts
+2023-04-19 06:56:47: finish date
+2023-04-19 06:56:48: find r-charts again
+2023-04-19 06:56:57: find r-charts again
+2023-04-19 06:57:06: find r-charts again
+2023-04-19 06:57:15: find r-charts again
+2023-04-19 06:57:25: find r-charts again
+2023-04-19 06:57:34: find r-charts again
+2023-04-19 06:57:44: 关闭错误
+2023-04-19 06:57:44: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:57:44: 开始做: 中大
+2023-04-19 06:57:49: 找到了canvas_element -r-charts
+2023-04-19 06:57:51: finish date
+2023-04-19 06:57:51: find r-charts again
+2023-04-19 06:58:01: find r-charts again
+2023-04-19 06:58:11: find r-charts again
+2023-04-19 06:58:20: find r-charts again
+2023-04-19 06:58:29: find r-charts again
+2023-04-19 06:58:39: find r-charts again
+2023-04-19 06:58:48: 关闭错误
+2023-04-19 06:58:48: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
+2023-04-19 06:58:48: 开始做: 紫洞
+2023-04-19 06:58:55: 找到了canvas_element -r-charts
+2023-04-19 06:58:56: finish date
+2023-04-19 06:58:56: find r-charts again
+2023-04-19 06:59:06: find r-charts again
+2023-04-19 06:59:15: find r-charts again
+2023-04-19 06:59:24: find r-charts again
+2023-04-19 06:59:34: find r-charts again
+2023-04-19 06:59:43: find r-charts again
+2023-04-19 06:59:53: 关闭错误
+2023-04-19 06:59:53: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010EDCE3+50899]
+	(No symbol) [0x0107E111]
+	(No symbol) [0x00F85588]
+	(No symbol) [0x00F87EDB]
+	(No symbol) [0x00F87DB0]
+	(No symbol) [0x00F88030]
+	(No symbol) [0x00FB1E3D]
+	(No symbol) [0x00FA92ED]
+	(No symbol) [0x00FCB8FC]
+	(No symbol) [0x00FA8EC6]
+	(No symbol) [0x00FCBC54]
+	(No symbol) [0x00FDE01C]
+	(No symbol) [0x00FCB6F6]
+	(No symbol) [0x00FA7708]
+	(No symbol) [0x00FA886D]
+	GetHandleVerifier [0x01353EAE+2566302]
+	GetHandleVerifier [0x013892B1+2784417]
+	GetHandleVerifier [0x0138327C+2759788]
+	GetHandleVerifier [0x01185740+672048]
+	(No symbol) [0x01088872]
+	(No symbol) [0x010841C8]
+	(No symbol) [0x010842AB]
+	(No symbol) [0x010771B7]
+	BaseThreadInitThunk [0x75EA0099+25]
+	RtlGetAppContainerNamedObjectPath [0x773F7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F7B3E+238]
+
